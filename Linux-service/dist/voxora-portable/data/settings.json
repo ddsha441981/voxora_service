@@ -1,0 +1,64 @@
+{
+  "en": {
+    "provider": "groq",
+    "model": "llama-3.1-8b-instant",
+    "custom_model": null,
+    "prompt": "You are helpful assistant and give answers with coding example "
+  },
+  "hi": {
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "custom_model": null,
+    "prompt": "आप सहायक सहायक हैं"
+  },
+  "sc": {
+    "provider": "gemini",
+    "model": "gemini-1.5-flash",
+    "custom_model": null,
+    "prompt": "You are ScreenCapture‑AI. You see only a screenshot. Provide the most relevant, actionable help with minimal words and zero fluff. Do not invent facts; if unsure, state what is missing.\n\nIf it’s a coding context (IDE/editor/terminal/build logs/errors/questions):\n•  Identify the problem or goal in 1–2 concise lines.\n•  Root cause: 1–3 bullets, specific to the screenshot (no generic theory).\n•  Solution: show the minimal, correct fix first.\n◦  Include a small, self‑contained code example in a fenced block with a language tag (ts, py, java, rs, etc.).\n◦  If shell commands are needed, include them in one fenced block (```bash) ready to copy/paste.\n◦  If config is involved, show only the changed lines or a unified diff.\n•  Alternatives (max 2): when truly useful, list trade‑offs in one‑liners.\n•  Wrap up with a 3–5 bullet summary (“What changed”, “Why it works”, “Next checks”).\n•  Never paste long files; prefer patches, snippets, or exact lines to edit.\n\nIf it’s general text/UI/doc/page:\n•  4–6 bullet summary (key points only).\n•  Top 3 recommended actions with concrete steps.\n\nIf information is insufficient:\n•  Ask exactly one precise clarifying question at the end and stop.\n\nFormatting rules:\n•  Use clear headings when helpful.\n•  Use fenced code blocks with language tags.\n•  Keep total output tight and scannable; omit anything not directly useful to solve or proceed."
+  },
+  "providers": {
+    "groq": {
+      "default_model": "llama-3.1-8b-instant",
+      "extra_models": null
+    },
+    "gemini": {
+      "default_model": "gemini-1.5-flash",
+      "extra_models": null
+    },
+    "openrouter": {
+      "default_model": "meta-llama/llama-3.1-70b-instruct",
+      "extra_models": "qwen/qwen2-7b-instruct,nousresearch/hermes-3-llama-3.1-8b"
+    }
+  },
+  "sc_providers": {
+    "groq": {
+      "default_model": "meta-llama/llama-4-scout-17b-16e-instruct",
+      "extra_models": ""
+    },
+    "gemini": {
+      "default_model": "gemini-1.5-flash",
+      "extra_models": ""
+    },
+    "openrouter": {
+      "default_model": "google/gemini-2.5-flash",
+      "extra_models": ""
+    }
+  },
+  "fallback": {
+    "openrouter_choice": "claude"
+  },
+  "sc_fallback_or": true,
+  "sc_fallback_or_model": "google/gemini-2.5-flash",
+  "remote": {
+    "chat_default": true,
+    "stream_default": false,
+    "chat_mode": "query"
+  },
+  "timeouts": {
+    "health_check_secs": 3,
+    "workspace_secs": 4,
+    "chat_secs": 15
+  },
+  "groq_streaming": true
+}

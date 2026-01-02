@@ -1,0 +1,3 @@
+# Project exclude paths
+/Linux-service/target/
+/window-service/target/

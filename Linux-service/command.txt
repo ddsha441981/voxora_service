@@ -1,0 +1,48 @@
+PS C:\Users\Pankaj Singh> cargo run --manifest-path "C:\Users\Pankaj\Desktop\WindowService\voxora-service\Cargo.toml" --bin voxora-service
+
+New Command After Add new Binary
+cargo run --bin voxora-service
+======================================
+
+Rebuild and run
+==========================================
+cargo build --release --bin voxora-service
+cargo run --bin voxora-service
+==========================================
+
+Test Case
+==========================================
+cargo test -q
+==========================================
+
+Powershell Command to bypass security
+================================================================
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+================================================================
+
+Stop Service Forefully
+===========================================
+Stop-Service VoxoraService -Force
+===========================================
+
+
+=====================Ubuntu================
+Build Binary
+cargo build --release
+
+After Release build 
+============================================
+cd dist/voxora-portable-linux
+sed -i 's/\r$//' install-ubuntu.sh uninstall-ubuntu.sh
+chmod +x install-ubuntu.sh uninstall-ubuntu.sh voxora-service
+bash ./install-ubuntu.sh
+
+
+For User Uninstall service 
+==================================
+systemctl --user disable --now voxora && rm -f ~/.config/systemd/user/voxora.service && systemctl --user daemon-reload
+
+
+
+open 
+sk-or-v1-40f88961b2cec05162f65ab33bbd04378c2d9fadc033a7eac2c73a51cd277ccccc7

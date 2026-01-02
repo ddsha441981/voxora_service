@@ -1,0 +1,31 @@
+PS C:\Users\Pankaj Singh> cargo run --manifest-path "C:\Users\Pankaj\Desktop\WindowService\voxora-service\Cargo.toml" --bin voxora-service
+
+New Command After Add new Binary
+cargo run --bin voxora-service
+======================================
+
+Rebuild and run
+==========================================
+cargo build --release --bin voxora-service
+cargo run --bin voxora-service
+==========================================
+
+Test Case
+==========================================
+cargo test -q
+==========================================
+
+Powershell Command to bypass security
+================================================================
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+================================================================
+
+Stop Service Forefully
+===========================================
+Stop-Service VoxoraService -Force
+===========================================
+
+
+
+open 
+sk-or-v1-40f88961b2cec05162f65ab33bbd04378c2d9fadc033a7eac2c73a51cd277ccccc7

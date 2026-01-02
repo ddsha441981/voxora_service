@@ -1,0 +1,109 @@
+warning: `voxora-service` (bin "voxora-service") generated 40 warnings (run `cargo fix --bin "voxora-service"` to apply 3 suggestions)
+    Finished `dev` profile [unoptimized + debuginfo] target(s) in 20.16s
+     Running `target\debug\voxora-service.exe`
+[AudioCapture] ≡ƒôü Writing captured audio to: output_2025-10-26_22-16-07.raw
+[AudioCapture] ≡ƒöè Loopback capture started. Press Ctrl+C to stop...
+[DEBUG HI] Trying Gemini with prompt: 'आप सहायक सहायक हैं'
+[DEBUG HI] Gemini failed: gemini http 400 Bad Request: {
+  "error": {
+    "code": 400,
+    "message": "API key not valid. Please pass a valid API key.",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "API_KEY_INVALID",
+        "domain": "googleapis.com",
+        "metadata": {
+          "service": "generativelanguage.googleapis.com"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "API key not valid. Please pass a valid API key."
+      }
+    ]
+  }
+}
+
+[DEBUG HI] Falling back to OpenRouter...
+[AudioCapture] ≡ƒôü Writing captured audio to: output_2025-10-26_22-16-59.raw
+[AudioCapture] ≡ƒöè Loopback capture started. Press Ctrl+C to stop...
+[DEBUG HI] Trying Gemini with prompt: 'आप सहायक सहायक हैं'
+[DEBUG HI] Gemini failed: gemini http 400 Bad Request: {
+  "error": {
+    "code": 400,
+    "message": "API key not valid. Please pass a valid API key.",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "API_KEY_INVALID",
+        "domain": "googleapis.com",
+        "metadata": {
+          "service": "generativelanguage.googleapis.com"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "API key not valid. Please pass a valid API key."
+      }
+    ]
+  }
+}
+
+[DEBUG HI] Falling back to OpenRouter...
+[AudioCapture] ≡ƒôü Writing captured audio to: output_2025-10-26_22-17-37.raw
+[AudioCapture] ≡ƒöè Loopback capture started. Press Ctrl+C to stop...
+[DEBUG EN] Trying Gemini with prompt: 'You are helpful assistant and give answers with coding example '
+[DEBUG EN] Gemini failed: gemini http 400 Bad Request: {
+  "error": {
+    "code": 400,
+    "message": "API key not valid. Please pass a valid API key.",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "API_KEY_INVALID",
+        "domain": "googleapis.com",
+        "metadata": {
+          "service": "generativelanguage.googleapis.com"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "API key not valid. Please pass a valid API key."
+      }
+    ]
+  }
+}
+
+[DEBUG EN] Falling back to OpenRouter...
+[DEBUG EN] Trying Gemini with prompt: ''
+[DEBUG EN] Gemini failed: gemini http 400 Bad Request: {
+  "error": {
+    "code": 400,
+    "message": "API key not valid. Please pass a valid API key.",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "API_KEY_INVALID",
+        "domain": "googleapis.com",
+        "metadata": {
+          "service": "generativelanguage.googleapis.com"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "API key not valid. Please pass a valid API key."
+      }
+    ]
+  }
+}
+
+[DEBUG EN] Falling back to OpenRouter...

@@ -1,0 +1,58 @@
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 00000000000000000000
+
+[Open] Received
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 9200b000c600d200c300
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: That's one.
+
+EchoMind: That's one.
+
+Transcript received: Yeah.
+
+EchoMind: Yeah.
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: bd06510435022a0010fe
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: So
+
+EchoMind: So
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 28ff00ff68fe05fe45fe
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: e4fe13ff2dff35ff24ff
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: this makes sense. Right? But what if
+
+EchoMind: this makes sense. Right? But what if
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: e2f366f230f7cefcd201
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: d600c2ffa1013501dffc
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 78023502fc0100028202
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 6dfc6f082df5ceffcf04
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 780ea30a100491020405
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: you have two conditions? Example, let's say, I got these values and now
+
+EchoMind: you have two conditions? Example, let's say, I got these values and now
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 6b005200320024000c00
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: f70bba0af40819085608
+WebSocket: sent 32000 bytes to EchoMind

@@ -1,0 +1,7 @@
+[EN] project_root: "/media/deendayal/personal/MyData/Development/Rust/voxora-service/voxora-service-Linux/Linux-service/dist/voxora-portable-linux"
+[EN] bin_dir: "/media/deendayal/personal/MyData/Development/Rust/voxora-service/voxora-service-Linux/Linux-service/dist/voxora-portable-linux/bin"
+[EN] go_server_path: "/media/deendayal/personal/MyData/Development/Rust/voxora-service/voxora-service-Linux/Linux-service/dist/voxora-portable-linux/bin/go-server-en-linux", exists: true
+[EN] Spawning go-server: "/media/deendayal/personal/MyData/Development/Rust/voxora-service/voxora-service-Linux/Linux-service/dist/voxora-portable-linux/bin/go-server-en-linux"
+[EN] Working directory: "/media/deendayal/personal/MyData/Development/Rust/voxora-service/voxora-service-Linux/Linux-service/dist/voxora-portable-linux"
+[EN] go-server spawned, PID: Some(8710)
+[EN] go-server still running after 5s wait

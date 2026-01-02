@@ -1,0 +1,39 @@
+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
+
+
+
+
+Groq
+curl https://api.groq.com/openai/v1/chat/completions -H "Content-Type: application/json" -H "Authorization: Bearer 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" -d "{\"model\": \"llama-3.1-8b-instant\",\"messages\": [{\"role\": \"user\", \"content\": \"Tell me a joke about AI.\"}],\"stream\": true}"
+
+
+=====================================================================================================================
+gemini
+
+AIzaSyCx-dWS5n_rqvSr1R8io3JWycMLQdgKk90
+
+curl "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent" -H "x-goog-api-key: AIzaSyCx-dWS5n_rqvSr1R8io3JWycMLQdgKk90" -H "Content-Type: application/json" -d "{\"contents\": [{\"parts\": [{\"text\": \"Tell me a joke about robots.\"}]}]}"
+
+=======================================================================================================
+Open Router
+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
+
+
+
+without image 
+curl https://openrouter.ai/api/v1/chat/completions ^
+ -H "Content-Type: application/json" ^
+ -H "Authorization: Bearer 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" ^
+ -d "{\"model\":\"google/gemini-2.5-flash\",\"stream\":true,\"messages\":[{\"role\":\"user\",\"content\":\"Tell me a joke about AI.\"}]}"
+
+
+With Image
+
+curl https://openrouter.ai/api/v1/chat/completions ^
+ -H "Content-Type: application/json" ^
+ -H "Authorization: Bearer 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" ^
+ -d "{\"model\":\"google/gemini-2.5-flash\",\"stream\":true,\"messages\":[{\"role\":\"user\",\"content\":[{\"type\":\"text\",\"text\":\"What do you see in this image?\"},{\"type\":\"image_url\",\"image_url\":{\"url\":\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAHElEQVQI12P4//8/w38GIAXDIBKE0DHxgljNBAAO9TXL0Y4OHwAAAABJRU5ErkJggg==\"}}]}]}"
+======================================================================================================================
+cohere
+
+curl -X POST https://api.cohere.ai/v2/chat -H "Authorization: Bearer YOUR_API_KEY_HERE" -H "Content-Type: application/json" -d "{\"model\": \"command-r-plus\",\"preamble\": \"You are a helpful assistant.\",\"messages\": [{\"role\": \"user\", \"content\": [{\"type\": \"text\", \"text\": \"What's the weather like on Mars?\"}]}]}"

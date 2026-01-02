@@ -1,0 +1,143 @@
+I1107 19:11:56.205263    9937 websocket.go:339] listen: Deepgram error. Err: websocket: close 1011 (internal server error): Deepgram did not receive audio data or a text message within the timeout window. See https://dpgr.am/net0001
+I1107 19:11:56.205563    9937 client_callback.go:236] ProcessError failed. Err: <nil>
+I1107 19:11:56.205583    9937 websocket.go:602] ProcessError(websocket: close 1011 (internal server error): Deepgram did not receive audio data or a text message within the timeout window. See https://dpgr.am/net0001) failed. Err: websocket: close 1011 (internal server error): Deepgram did not receive audio data or a text message within the timeout window. See https://dpgr.am/net0001
+I1107 19:11:56.205623    9937 websocket.go:344] listen: Deepgram ErrorMsg. Err: websocket: close 1011 (internal server error): Deepgram did not receive audio data or a text message within the timeout window. See https://dpgr.am/net0001
+I1107 19:11:56.205647    9937 websocket.go:494] WriteMessage failed. Err: websocket: close sent
+I1107 19:37:11.768133   11734 websocket.go:339] listen: Deepgram error. Err: websocket: close 1011 (internal server error): Deepgram did not receive audio data or a text message within the timeout window. See https://dpgr.am/net0001
+I1107 19:37:11.768514   11734 client_callback.go:236] ProcessError failed. Err: <nil>
+I1107 19:37:11.768553   11734 websocket.go:602] ProcessError(websocket: close 1011 (internal server error): Deepgram did not receive audio data or a text message within the timeout window. See https://dpgr.am/net0001) failed. Err: websocket: close 1011 (internal server error): Deepgram did not receive audio data or a text message within the timeout window. See https://dpgr.am/net0001
+I1107 19:37:11.768650   11734 websocket.go:344] listen: Deepgram ErrorMsg. Err: websocket: close 1011 (internal server error): Deepgram did not receive audio data or a text message within the timeout window. See https://dpgr.am/net0001
+I1107 19:37:11.768687   11734 websocket.go:494] WriteMessage failed. Err: websocket: close sent
+I1107 19:37:41.810375   11734 websocket.go:216] Cannot connect to websocket: 
+I1107 19:37:41.810481   11734 websocket.go:217] Dialer failed. Err: read tcp 192.168.187.105:48800->38.246.42.147:443: i/o timeout
+I1107 19:37:41.810563   11734 websocket.go:174] Sleep for retry #1...
+I1107 19:37:53.815584   11734 websocket.go:216] Cannot connect to websocket: 
+I1107 19:37:53.815702   11734 websocket.go:217] Dialer failed. Err: dial tcp: lookup api.deepgram.com on 127.0.0.53:53: read udp 127.0.0.1:57136->127.0.0.53:53: i/o timeout
+I1107 19:37:53.815777   11734 websocket.go:174] Sleep for retry #2...
+I1107 19:38:05.819481   11734 websocket.go:216] Cannot connect to websocket: 
+I1107 19:38:05.819627   11734 websocket.go:217] Dialer failed. Err: dial tcp: lookup api.deepgram.com on 127.0.0.53:53: read udp 127.0.0.1:36818->127.0.0.53:53: i/o timeout
+I1107 19:38:05.819747   11734 websocket.go:250] Failed to connect to websocket: 
+I1107 19:38:05.819781   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:38:05.820180   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:38:05.820566   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:38:05.820964   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:38:05.821386   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:38:05.821742   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:38:05.822064   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:38:05.822404   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:38:05.822698   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:38:05.823008   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:38:05.823302   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:38:05.823699   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:38:06.809455   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:38:06.809859   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:38:08.815101   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:38:08.815566   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:38:10.810999   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:38:22.809570   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:38:24.814908   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:38:24.815207   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:38:32.815003   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:38:34.809621   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:38:34.809813   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:38:36.814875   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:38:36.815276   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:38:38.809924   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:38:38.810232   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:38:40.814744   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:38:40.814947   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:38:42.809579   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:38:42.809841   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:38:44.814801   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:38:44.815007   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:38:46.809709   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:38:46.809901   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:38:48.814880   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:38:48.815233   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:38:50.809679   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:38:50.811200   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:38:52.815070   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:38:52.815432   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:38:54.809586   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:38:54.809784   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:38:56.814876   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:38:56.815163   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:38:58.809577   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:38:58.809828   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:39:00.814802   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:39:00.815151   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:39:02.809752   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:39:02.810007   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:39:04.813914   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:39:04.814049   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:39:06.809290   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:39:06.809610   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:39:08.814946   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:39:08.815242   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:39:10.809464   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:39:10.809731   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:39:12.815533   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:39:12.816309   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:39:14.809858   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:39:14.810197   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:39:16.814930   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:39:16.815225   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:39:18.809951   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:39:18.810210   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:39:20.814809   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:39:20.815014   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:39:22.809779   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:39:22.810000   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:39:24.815051   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:39:24.815333   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:39:26.810362   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:39:26.810615   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:39:28.814659   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:39:28.814912   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:39:30.809446   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:39:30.810266   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:39:32.814956   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:39:32.815292   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:39:34.809460   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:39:34.809650   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:39:36.814862   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:39:36.815214   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:39:38.809825   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:39:38.810055   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:39:40.814753   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:39:40.815339   11734 client_callback.go:171] Write failed. Err: connection is not valid
+I1107 19:39:58.450331   12162 websocket.go:216] Cannot connect to websocket: 
+I1107 19:39:58.450610   12162 websocket.go:217] Dialer failed. Err: dial tcp: lookup api.deepgram.com on 127.0.0.53:53: read udp 127.0.0.1:50389->127.0.0.53:53: i/o timeout
+I1107 19:39:58.450673   12162 websocket.go:174] Sleep for retry #1...
+I1107 19:40:31.598680   12162 websocket.go:418] WriteBinary WriteMessage failed. Err: write tcp 192.168.187.105:37150->38.246.42.147:443: write: broken pipe
+I1107 19:40:31.598832   12162 client_callback.go:171] Write failed. Err: write tcp 192.168.187.105:37150->38.246.42.147:443: write: broken pipe
+I1107 19:40:31.599266   12162 websocket.go:418] WriteBinary WriteMessage failed. Err: write tcp 192.168.187.105:37150->38.246.42.147:443: write: broken pipe
+I1107 19:40:31.599343   12162 client_callback.go:171] Write failed. Err: write tcp 192.168.187.105:37150->38.246.42.147:443: write: broken pipe
+I1107 19:40:31.600662   12162 websocket.go:339] listen: Deepgram error. Err: websocket: close 1011 (internal server error): Deepgram did not receive audio data or a text message within the timeout window. See https://dpgr.am/net0001
+I1107 19:40:31.600614   12162 websocket.go:418] WriteBinary WriteMessage failed. Err: write tcp 192.168.187.105:37150->38.246.42.147:443: write: broken pipe
+I1107 19:40:31.601340   12162 client_callback.go:171] Write failed. Err: write tcp 192.168.187.105:37150->38.246.42.147:443: write: broken pipe
+I1107 19:40:31.601574   12162 client_callback.go:236] ProcessError failed. Err: <nil>
+I1107 19:40:31.601610   12162 websocket.go:602] ProcessError(websocket: close 1011 (internal server error): Deepgram did not receive audio data or a text message within the timeout window. See https://dpgr.am/net0001) failed. Err: websocket: close 1011 (internal server error): Deepgram did not receive audio data or a text message within the timeout window. See https://dpgr.am/net0001
+I1107 19:40:31.601688   12162 websocket.go:344] listen: Deepgram ErrorMsg. Err: websocket: close 1011 (internal server error): Deepgram did not receive audio data or a text message within the timeout window. See https://dpgr.am/net0001
+I1107 19:40:31.601724   12162 websocket.go:494] WriteMessage failed. Err: write tcp 192.168.187.105:37150->38.246.42.147:443: write: broken pipe
+I1107 19:40:31.702191   12162 websocket.go:532] Failed to send CloseNormalClosure. Err: write tcp 192.168.187.105:37150->38.246.42.147:443: write: broken pipe
+I1112 08:00:43.901569    8710 websocket.go:339] listen: Deepgram error. Err: websocket: close 1011 (internal server error): Deepgram did not receive audio data or a text message within the timeout window. See https://dpgr.am/net0001
+I1112 08:00:43.909018    8710 client_callback.go:236] ProcessError failed. Err: <nil>
+I1112 08:00:43.909044    8710 websocket.go:602] ProcessError(websocket: close 1011 (internal server error): Deepgram did not receive audio data or a text message within the timeout window. See https://dpgr.am/net0001) failed. Err: websocket: close 1011 (internal server error): Deepgram did not receive audio data or a text message within the timeout window. See https://dpgr.am/net0001
+I1112 08:00:43.909095    8710 websocket.go:344] listen: Deepgram ErrorMsg. Err: websocket: close 1011 (internal server error): Deepgram did not receive audio data or a text message within the timeout window. See https://dpgr.am/net0001
+I1112 08:00:43.909137    8710 websocket.go:494] WriteMessage failed. Err: websocket: close sent
+I1112 08:01:27.143725    8710 websocket.go:339] listen: Deepgram error. Err: websocket: close 1011 (internal server error): Deepgram did not receive audio data or a text message within the timeout window. See https://dpgr.am/net0001
+I1112 08:01:27.144002    8710 client_callback.go:236] ProcessError failed. Err: <nil>
+I1112 08:01:27.144027    8710 websocket.go:602] ProcessError(websocket: close 1011 (internal server error): Deepgram did not receive audio data or a text message within the timeout window. See https://dpgr.am/net0001) failed. Err: websocket: close 1011 (internal server error): Deepgram did not receive audio data or a text message within the timeout window. See https://dpgr.am/net0001
+I1112 08:01:27.144102    8710 websocket.go:344] listen: Deepgram ErrorMsg. Err: websocket: close 1011 (internal server error): Deepgram did not receive audio data or a text message within the timeout window. See https://dpgr.am/net0001
+I1112 08:01:27.144139    8710 websocket.go:494] WriteMessage failed. Err: websocket: close sent
+I1112 08:01:47.440769    8710 websocket.go:339] listen: Deepgram error. Err: websocket: close 1011 (internal server error): Deepgram did not receive audio data or a text message within the timeout window. See https://dpgr.am/net0001
+I1112 08:01:47.441075    8710 client_callback.go:236] ProcessError failed. Err: <nil>
+I1112 08:01:47.441104    8710 websocket.go:602] ProcessError(websocket: close 1011 (internal server error): Deepgram did not receive audio data or a text message within the timeout window. See https://dpgr.am/net0001) failed. Err: websocket: close 1011 (internal server error): Deepgram did not receive audio data or a text message within the timeout window. See https://dpgr.am/net0001
+I1112 08:01:47.441189    8710 websocket.go:344] listen: Deepgram ErrorMsg. Err: websocket: close 1011 (internal server error): Deepgram did not receive audio data or a text message within the timeout window. See https://dpgr.am/net0001
+I1112 08:01:47.441216    8710 websocket.go:494] WriteMessage failed. Err: websocket: close sent
+I1112 08:03:08.819521    8710 websocket.go:339] listen: Deepgram error. Err: websocket: close 1011 (internal server error): Deepgram did not receive audio data or a text message within the timeout window. See https://dpgr.am/net0001
+I1112 08:03:08.819640    8710 client_callback.go:236] ProcessError failed. Err: <nil>
+I1112 08:03:08.819654    8710 websocket.go:602] ProcessError(websocket: close 1011 (internal server error): Deepgram did not receive audio data or a text message within the timeout window. See https://dpgr.am/net0001) failed. Err: websocket: close 1011 (internal server error): Deepgram did not receive audio data or a text message within the timeout window. See https://dpgr.am/net0001
+I1112 08:03:08.819689    8710 websocket.go:344] listen: Deepgram ErrorMsg. Err: websocket: close 1011 (internal server error): Deepgram did not receive audio data or a text message within the timeout window. See https://dpgr.am/net0001
+I1112 08:03:08.819707    8710 websocket.go:494] WriteMessage failed. Err: websocket: close sent

@@ -1,0 +1,7 @@
+[EN] project_root: "C:\\Users\\ak\\Desktop\\WindowService\\voxora-service"
+[EN] bin_dir: "C:\\Users\\ak\\Desktop\\WindowService\\voxora-service\\bin"
+[EN] go_server_path: "C:\\Users\\ak\\Desktop\\WindowService\\voxora-service\\bin\\go-server-en.exe", exists: true
+[EN] Spawning go-server: "C:\\Users\\ak\\Desktop\\WindowService\\voxora-service\\bin\\go-server-en.exe"
+[EN] Working directory: "C:\\Users\\ak\\Desktop\\WindowService\\voxora-service"
+[EN] go-server spawned, PID: Some(2572)
+[EN] go-server still running after 5s wait

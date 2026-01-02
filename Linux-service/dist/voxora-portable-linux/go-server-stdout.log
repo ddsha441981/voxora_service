@@ -1,0 +1,2727 @@
+🐧 Linux system detected.
+Credential successfully loaded.
+Settings successfully loaded.
+WebSocket: connection established
+Using API key: 8c3b064a74e7fa35ad330658c59beee67bcbc06d
+
+[Open] Received
+WebSocket: received message type 1, size: 55 bytes
+WebSocket: received text message: {"sample_rate":16000,"channels":1,"bytes_per_sample":2}
+WebSocket: parsed JSON message: {Type:}
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 0503710418025601d901
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 7c155814a711fd0eb10b
+WebSocket: sent 32000 bytes to EchoMind
+Empty transcript received
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 710d8d0ff30dd90d950e
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: cb009800cf000101f800
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: c60655063e05de03cd02
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 6e01dd01afffb5002401
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: It ensures that each plane is guided to the correct gate or destination and keeps
+
+EchoMind: It ensures that each plane is guided to the correct gate or destination and keeps
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 6e083c074806fe052406
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: a210870e8d0b2d098a07
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: everything organized and running smoothly.
+
+EchoMind: everything organized and running smoothly.
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 32fe00ff80ff5affddfe
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 8a0b6d0b4b0bba0b5e0d
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: acffeefe96fe01ff5aff
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 54fbeafa2efaa8f925f9
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 72021c043409fc038603
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 47f40bf53df6e8f64df7
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: That's exactly how Zookeeper maintains order and coordinates
+
+EchoMind: That's exactly how Zookeeper maintains order and coordinates
+
+Transcript received: within the Kafka ecosystem.
+
+EchoMind: within the Kafka ecosystem.
+
+Transcript received: To know more
+
+EchoMind: To know more
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 78ff340b0e034b05190c
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 24fd97fc47fc4cfbb9fa
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: join our master class and learn
+
+EchoMind: join our master class and learn
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 1a009000d5ff25ff9eff
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 8c13ba128711f40f430e
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 0dff68fe99fda6fd3dfe
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 5d00a9fe95026fff2802
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: cdffddff52ff58ffeafe
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 86fb8cfb2afa37f888f5
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: Kafka's essential components and its role as a distributed streaming platform.
+
+EchoMind: Kafka's essential components and its role as a distributed streaming platform.
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 510b040b7c0a8a09cc07
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 57fa77fa43fa50fba0f9
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: e5fdb9feefffc9005401
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 18fd2ffd6d07c5f97eff
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: How Kafka's features ensure reliable and fault tolerant data streaming,
+
+EchoMind: How Kafka's features ensure reliable and fault tolerant data streaming,
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 4c09d20772068805ce03
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 22019b0032007efff9fe
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 85fe88f678fa58fc38f6
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 3500d3ffd6fe96ff0900
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 5f0121016b023c02d801
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 52ff5eff54ff35ff4dff
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 4ee449e756e994ea00eb
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 9ffe67fe07fff7ff1e01
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: Zookeeper's pivotal role in coordinating Kafka nodes. How Kafka scales and ensures fault tolerance with Zookeeper playing a
+
+EchoMind: Zookeeper's pivotal role in coordinating Kafka nodes. How Kafka scales and ensures fault tolerance with Zookeeper playing a
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: defeb6fb9b038cfa60fd
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 77ff77ff5fff47ff6aff
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: key role in maintaining system reliability.
+
+EchoMind: key role in maintaining system reliability.
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: ba0fee16b518f8174f16
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 83ff83ffb0ff9bff29ff
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: Click the link below to register.
+
+EchoMind: Click the link below to register.
+
+Empty transcript received
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 02ff6dffcdffc6ffe4ff
+WebSocket: sent 32000 bytes to EchoMind
+Empty transcript received
+Empty transcript received
+Error reading WebSocket message: websocket: close 1005 (no status)
+🐧 Linux system detected.
+Credential successfully loaded.
+Settings successfully loaded.
+WebSocket: connection established
+Using API key: 8c3b064a74e7fa35ad330658c59beee67bcbc06d
+
+[Open] Received
+WebSocket: received message type 1, size: 55 bytes
+WebSocket: received text message: {"sample_rate":16000,"channels":1,"bytes_per_sample":2}
+WebSocket: parsed JSON message: {Type:}
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 00000000000000000000
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: dcfc25fea5ffc100e901
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: ec064f0479016ffebafc
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 8b0175fcaef774f32df0
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 1b05db069408250a160c
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: fd08b8077806b1058f06
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: In coding. You'll be saving upwards of ninety five percent of your time while you're coding, while you're debugging, while you're
+
+EchoMind: In coding. You'll be saving upwards of ninety five percent of your time while you're coding, while you're debugging, while you're
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: a1fd6ffe59ff2b002e00
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 052def2b072e892ccf24
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: building web apps, and while you're
+
+EchoMind: building web apps, and while you're
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 6eff3eff1bff83fe28fe
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: dfffac007400fbff83ff
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: scraping as well. Right? So for tackling this same problem, we found,
+
+EchoMind: scraping as well. Right? So for tackling this same problem, we found,
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 0f019f007e00ec005801
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 97018e010c0229036303
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: 10 useful tools
+
+EchoMind: 10 useful tools
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 57fc7afccafceffc8efd
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 44faedfa70fb43fc64fd
+WebSocket: sent 32000 bytes to EchoMind
+Error reading WebSocket message: websocket: close 1005 (no status)
+🐧 Linux system detected.
+Credential successfully loaded.
+Settings successfully loaded.
+WebSocket: connection established
+Using API key: 8c3b064a74e7fa35ad330658c59beee67bcbc06d
+
+[Open] Received
+WebSocket: received message type 1, size: 55 bytes
+WebSocket: received text message: {"sample_rate":16000,"channels":1,"bytes_per_sample":2}
+WebSocket: parsed JSON message: {Type:}
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 00000000000000000000
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: d2f75cfaf0fd41008400
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: Or fine
+
+EchoMind: Or fine
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 9f07a606c005ab048c03
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 020021003b0030003d00
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: and write your code there. So let's compile this code.
+
+EchoMind: and write your code there. So let's compile this code.
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: bf00e1002c01bc01e301
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 410c400114f676f2e7f1
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 0efa46fc86fec4020507
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: c6f4cef88efd1902c606
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: Now how do we compile? Okay. So there there are two steps you have to follow. First, when you write a code,
+
+EchoMind: Now how do we compile? Okay. So there there are two steps you have to follow. First, when you write a code,
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 2c038903b20383035703
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: ddecdbeb9beefbf2d0f2
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: have to compile the code.
+
+EchoMind: have to compile the code.
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: a4fe1effdcffe0ffbfff
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 9cfe45ff5100c301f102
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: cfffc0ffc5ffecff1100
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 660129011401e300b600
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: And then you can run the code. So to compile the code, can say Java
+
+EchoMind: And then you can run the code. So to compile the code, can say Java
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 89001f0073ff48007500
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: b6fd1f077a0786fb84ed
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: b20fbe0c5a1200182e12
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 33096806c2fff3f8c1f5
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: c in the terminal, and let me just increase the font a bit.
+
+EchoMind: c in the terminal, and let me just increase the font a bit.
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 34e5c2e0b0de87db10dc
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 9bfd8305e00a060ce90b
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: So you have to say Java c, and then you have to mention the file name. So first, you
+
+EchoMind: So you have to say Java c, and then you have to mention the file name. So first, you
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: dfff97ff76ff7fffbaff
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 001b451a461a5f1ad719
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: you have to be make sure that you are in a correct folder.
+
+EchoMind: you have to be make sure that you are in a correct folder.
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 72fd36ffeafea5fe45ff
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: fff245edb9ecc2ef03f4
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 30f875f80cf9ddf917fa
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: b1fe49fe1afdcffbc6fa
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: Which is course. You can see that this is the folder we have and then you have to mention javac and then the file name.
+
+EchoMind: Which is course. You can see that this is the folder we have and then you have to mention javac and then the file name.
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 40fd86fddeff0b039907
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 72fe29fe48fd8f006bfc
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 15fdb0fdaefed3ffec00
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 1bfdeafd8fffd401a404
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: The file name in this case is hello dot java. Click on enter.
+
+EchoMind: The file name in this case is hello dot java. Click on enter.
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 26004100580051005a00
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 3f00430030002900feff
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: fd0a820ad90919097308
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 3a063706f80504067a06
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: dc01ca01bd01b301aa01
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 26ff71ff1400aafffeff
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: Oh, we got an error. Okay. So it says
+
+EchoMind: Oh, we got an error. Okay. So it says
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 8af043f4b2f749fbeafe
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: c4fdf1fd1ffe5efea5fe
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: something is missing or something else was expected, and you are giving
+
+EchoMind: something is missing or something else was expected, and you are giving
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 9e019b019401b6014901
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: cd140b0ed206fb03ec04
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 880a060bfc06f2022101
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 2e09b80ba90fbe12cd12
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: ef08a60c410f3c0c9c05
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: c200aafec6ffaf00effd
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: this. This is not working. So this is not how you write applications
+
+EchoMind: this. This is not working. So this is not how you write applications
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: c101fdff91ffc400db03
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: e20e94121816f1171c19
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: of code in Java file. We have to do something else.
+
+EchoMind: of code in Java file. We have to do something else.
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: c5039d0382038f03b903
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 76fc8ffc7ffc52fc17fc
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 62ff6fff77ff53ff2eff
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 0e002e002e003a003700
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: But at this point, we have understood, right, how do you work with J Shell. So you can if you want to do something with J Shell,
+
+EchoMind: But at this point, we have understood, right, how do you work with J Shell. So you can if you want to do something with J Shell,
+
+Transcript received: just write a code
+
+EchoMind: just write a code
+
+Transcript received: It will work.
+
+EchoMind: It will work.
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 1e00eaffceffc0ffa3ff
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: b8fa51fb22fc06fd1bfe
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 22e7e5d298cebbddb5f1
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: e1ffdcffd6ffb1ff8fff
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: b203e102d80119015800
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: de01b2016b014a016401
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: If you want to add two numbers, it will work. You can't do that here.
+
+EchoMind: If you want to add two numbers, it will work. You can't do that here.
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 1d2f9a399140c73d7720
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 30fb0efdcc0003fc0603
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: We have to do something extra. So let's solve this problem. So we are not able to run this code. Right?
+
+EchoMind: We have to do something extra. So let's solve this problem. So we are not able to run this code. Right?
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 62250d289c27b520cf14
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 59f569f5aff5eef544f6
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 4aea70e7cee2bfe32feb
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: a5fc0900e1009a019302
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: This is not working. We want to get hello world on the screen.
+
+EchoMind: This is not working. We want to get hello world on the screen.
+
+Empty transcript received
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: f0001a03df04c3043804
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: bf21eb2153216622541e
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: ac183818c516c416d417
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: c0e86ad91bcdaac94acc
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: Was working with J Shell because J Shell says, you just pass a statement. I will work. But then
+
+EchoMind: Was working with J Shell because J Shell says, you just pass a statement. I will work. But then
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: cef7bc0087fe4cf5a1ee
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 92fe8bfef2fed1fe0cff
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 39f723f749f79bf717f8
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 5afae8fa09f9e7f714f7
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: you build an application, when you run the application, how exactly it works behind the scene,
+
+EchoMind: you build an application, when you run the application, how exactly it works behind the scene,
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 28f163fb7ffd8dfdb3ff
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 9102df029403d0036103
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: Once we understand that, we we can write this code.
+
+EchoMind: Once we understand that, we we can write this code.
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: bd020400c1fb50ffe401
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 15089e074306ff044e04
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: So in your machine,
+
+EchoMind: So in your machine,
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 6803b5045a059506db07
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 8dffbaff2a007c006000
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: will be having something called
+
+EchoMind: will be having something called
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 44002e001e0023000900
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 90ff3cfff6fea8fe2dfe
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: j
+
+EchoMind: j
+
+Transcript received: JV
+
+EchoMind: JV
+
+Transcript received: Now
+
+EchoMind: Now
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 1c0018001100fffffcff
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 33e1f8dc36e59bdc08d6
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 270aa6099b0973078302
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 740199011702c3026c03
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: edf2b4f474f3afef4eee
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 9610cc0c7b09c306f202
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: by default, when you say Java is platform independent, it's because of JVM because in your machine,
+
+EchoMind: by default, when you say Java is platform independent, it's because of JVM because in your machine,
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 15f6ebf499f447f5b3f5
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 1600d4ff7dff02ff32ff
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: c9014b022e02d5019501
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 60ec64eddcee20f178f3
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: you will be having JVM. Irrespective of which OS you use, it
+
+EchoMind: you will be having JVM. Irrespective of which OS you use, it
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 6519d71c651ec31e8421
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 21122d1528110b0636fd
+WebSocket: sent 32000 bytes to EchoMind
+Error reading WebSocket message: websocket: close 1005 (no status)
+🐧 Linux system detected.
+Credential successfully loaded.
+Settings successfully loaded.
+WebSocket: connection established
+Using API key: 8c3b064a74e7fa35ad330658c59beee67bcbc06d
+
+[Open] Received
+WebSocket: received message type 1, size: 55 bytes
+WebSocket: received text message: {"sample_rate":16000,"channels":1,"bytes_per_sample":2}
+WebSocket: parsed JSON message: {Type:}
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 6c03db04540219023502
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 8d03870494040bff7b04
+WebSocket: sent 32000 bytes to EchoMind
+Empty transcript received
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 8a08cb083a092a092409
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: de02bd023d02b8013701
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 0003ac023d019dff79ff
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 2afabef9d5faa7fcf0ff
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: When you say JVM will work, but JVM works on which environment?
+
+EchoMind: When you say JVM will work, but JVM works on which environment?
+
+Empty transcript received
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: c5fe7e027104cb05e104
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 86fc14fca0fdb6005eff
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: fd00d2fe28ffde005bff
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: ad008700600069007800
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: So underlying, we have your OS. So this is your OSS.
+
+EchoMind: So underlying, we have your OS. So this is your OSS.
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: cfe909ed05f11bf64afb
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 0a044408b80a7d0ba80a
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 6e037c03bb033204eb04
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 3bf851ef5beafbed47f4
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: b3037804990328fe65f4
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 8b042a04710452054f06
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: And then your OS is working on a hardware. Right? So you'll be having a hardware. It can be a
+
+EchoMind: And then your OS is working on a hardware. Right? So you'll be having a hardware. It can be a
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 37f42cf632f924fcf8fd
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 4802980469042e046206
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 5ef1deff4e11af1e0322
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 68008e00990086007500
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: It can be a desktop. It can be a phone. It doesn't matter. You have a hardware
+
+EchoMind: It can be a desktop. It can be a phone. It doesn't matter. You have a hardware
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: c5002b0130fe45ff4302
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: baffa8ffb2ffb8ffb7ff
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 1301e9fe3cfe2afe23fe
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: e1ebd6ed31ef89edd9eb
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: on top of that we have an OS, on top of that we have something called JVM. Now JVM
+
+EchoMind: on top of that we have an OS, on top of that we have something called JVM. Now JVM
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 971ecc11270bd115081e
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 59ff63ff6eff79ff92ff
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: da0e0c11a4139317fd1a
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 3bfff5fe27ffb7ff1000
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: says, okay. My job is to execute a Java code.
+
+EchoMind: says, okay. My job is to execute a Java code.
+
+Transcript received: So whatever Java code you create,
+
+EchoMind: So whatever Java code you create,
+
+Empty transcript received
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 0f01340393046905b105
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: ed01b6069b0cb214ad1f
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 71fd48fd22fde0fc76fc
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: a4ff8dff76ff6fff8cff
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: JVM will execute that. But then JVM will not accept
+
+EchoMind: JVM will execute that. But then JVM will not accept
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 1c0063fff2fea3fea5fe
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: c7fe74fd2afe3efe77fe
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 33098009080a050a2d0a
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: de00d6005102b1030404
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: the code directly. See, what happens is Java goes in multiple steps in Java application.
+
+EchoMind: the code directly. See, what happens is Java goes in multiple steps in Java application.
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 52ff99fce3fa53fde102
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: c1e36dda90d982e075e8
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 180269026a022502cf01
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 45004200270021002900
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: When you, as a programmer so let's say you are a programmer here,
+
+EchoMind: When you, as a programmer so let's say you are a programmer here,
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 96fa6dfb6ffcddfd29ff
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 72febafe9afe57fe56fe
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: and when you write a code
+
+EchoMind: and when you write a code
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 2e012d01ea00b300ef00
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: bae4d1e900ed26eb70e7
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: you will not directly run write a code which will run on JVM.
+
+EchoMind: you will not directly run write a code which will run on JVM.
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 8f0fda0d7f0b6a0a670b
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 380036002e0023002e00
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 11f75af8e2fa55fbe1f7
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 5b054206da06cd067b06
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: d8fe8b06be0b6c0d580d
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: cb07a807e90747088e08
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: Okay? And we don't even do that. Right? We don't even write a code which directly works on the hardware.
+
+EchoMind: Okay? And we don't even do that. Right? We don't even write a code which directly works on the hardware.
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: c8fa1afbc3fa94fa48fa
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 0001d6fe4500010135ff
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 830293016c012a014b00
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 39cda0d044d7b7e07aed
+WebSocket: sent 32000 bytes to EchoMind
+🐧 Linux system detected.
+Credential successfully loaded.
+Settings successfully loaded.
+WebSocket: connection established
+Using API key: 8c3b064a74e7fa35ad330658c59beee67bcbc06d
+
+[Open] Received
+WebSocket: received message type 1, size: 55 bytes
+WebSocket: received text message: {"sample_rate":16000,"channels":1,"bytes_per_sample":2}
+WebSocket: parsed JSON message: {Type:}
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 00000000000000000000
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: aafe9c01610097ff8aff
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 33fa44fa4ffa52fa51fa
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: b2ff90fef900eaff18fd
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: Mis. So JVM need to be built for particular OS.
+
+EchoMind: Mis. So JVM need to be built for particular OS.
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 5405bc052f0646068e05
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: dc00edfcf3f7def3a9f2
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: Let's say if it is Windows in my so
+
+EchoMind: Let's say if it is Windows in my so
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 4f063f076b09840ad009
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: d5ea76ee7af28ff6e5fa
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: my machine, it is Mac.
+
+EchoMind: my machine, it is Mac.
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 92fff300e301fdffe0ff
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: e1f0fff022f1aef143f2
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: But let's say if it is Windows,
+
+EchoMind: But let's say if it is Windows,
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: f3fea2fe85fefcfea6ff
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 650a11050804f6045802
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: a4ffa0ffb6ffb8ffaeff
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: b4fe6d011702ed005500
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: we have JVM available on Windows. So your JVM says,
+
+EchoMind: we have JVM available on Windows. So your JVM says,
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 2e04b4055e0788079a07
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 98f983faebfba3fd4d01
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 17fa85f9e0f836f8c4f7
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 3e023802440250024902
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: hey. I will run your code, but you have to submit me not the Java code
+
+EchoMind: hey. I will run your code, but you have to submit me not the Java code
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: acf914fa5cfaa2fae3fa
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 6700b3fd910179013afd
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: but something called a byte code.
+
+EchoMind: but something called a byte code.
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 5c073d11701c63256c28
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: a5f160fb2701c0043806
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: So you have to convert your code
+
+EchoMind: So you have to convert your code
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 4af754f7c7f6dff158e9
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: b400030059ffcffe40fe
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 38ff58ff9eff97ff5cff
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: ee03c303ef03c104e303
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: into a unreadable format for a normal human being
+
+EchoMind: into a unreadable format for a normal human being
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 42dca0e782f7c2019502
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: d8ffd1ffd2ffc2ffa0ff
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: and this is called a byte code.
+
+EchoMind: and this is called a byte code.
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 8400930086007a009800
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: dafbd6fcedfcabfc81fc
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: Because JVM
+
+EchoMind: Because JVM
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: a5ed28fc450c6d119e0a
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 38eda0e60fe2d9dfdede
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: only understands byte code.
+
+EchoMind: only understands byte code.
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: a3de41e99af55bfb34fb
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: f706a604de00a5fd4efb
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: d6fbaefc71fddcfd16fe
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: d3ff970052019501bc01
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: But can you write byte code? Of course not. You only understand English type of languages. Right?
+
+EchoMind: But can you write byte code? Of course not. You only understand English type of languages. Right?
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 31ebd7e424e077de7ce0
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 83feeafe52ffa8ffecff
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: Whatever we have returned the code,
+
+EchoMind: Whatever we have returned the code,
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: fa10a50e130b9a077805
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 591e35198412dd078df9
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 7a00f3ffb3f896ec0ee5
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 8001cc01d201e0011202
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 75072a0d7d0f7210300e
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 2f022c02330245021c02
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: we have written system dot out dot print. It's English like language. Right? So what
+
+EchoMind: we have written system dot out dot print. It's English like language. Right? So what
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 2f012101e10095006300
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: f1fbe1fa41fa52f9bef7
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: you create is a Java code.
+
+EchoMind: you create is a Java code.
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 1df6a0f577f56cf562f5
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 22f3fff20cf221f06eed
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: So this is your Java file.
+
+EchoMind: So this is your Java file.
+
+Transcript received: Or Java code.
+
+EchoMind: Or Java code.
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 5ff797f776f83af922f9
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: fb0053019201bf01f601
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: f9e5a5e83aecb7f0faf4
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 84035203a602ad01cf00
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 52023bfe80f96df540f2
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 9500c1039f05f2047a06
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: And then you have to convert this Java code. So this is Java code which is more of readable.
+
+EchoMind: And then you have to convert this Java code. So this is Java code which is more of readable.
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 17ff47fe0bfe4ffe27fe
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 11fe6cff5300d4002f01
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 0602ff01dc01b801cb01
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: fd00e40093004600faff
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: This is not something which you can read. So basically, you have to convert this into a Java code.
+
+EchoMind: This is not something which you can read. So basically, you have to convert this into a Java code.
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: ee155716ec184d1fd126
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: fafb9bfb77fbf9fbfbfc
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: Or byte code.
+
+EchoMind: Or byte code.
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: e30a890efb105f16ff1b
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: ffd4fdcd17ce58d6fee4
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: For that, we have something in between here.
+
+EchoMind: For that, we have something in between here.
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 49034a0315038602fa01
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 551ad717cf14c7136b14
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: Which is called a compiler.
+
+EchoMind: Which is called a compiler.
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 04fd42fd7cfd9bfdbbfd
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: ddf9f0f93bfa78faccfa
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: Now since this is a Java compiler,
+
+EchoMind: Now since this is a Java compiler,
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: f6059d0102ff38fe0cff
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 50e332e50ae7b6e4c2e3
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: we can call it as Java c, which is Java compiler.
+
+EchoMind: we can call it as Java c, which is Java compiler.
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 0d000f001d000f000b00
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: ceff4c0077fec6fe0502
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 02dec5dd25dde7dc39dd
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 25001cff93fe4dfe01fe
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: Okay? So, basically, you
+
+EchoMind: Okay? So, basically, you
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: a2e389ddf0d755d3f3ce
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: d0ee50dfded688d74bde
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: will write this code. So this code will be getting compiled
+
+EchoMind: will write this code. So this code will be getting compiled
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: fdef19f52bf806fbefff
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 120018006900ac00b500
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: into a byte code
+
+EchoMind: into a byte code
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: eefa83fad4fa7afb0efc
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 0001de00bc0097008b00
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 09041b052f062a079507
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 81029e02d20184ff1efb
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: and that byte code goes on the JVM it will run.
+
+EchoMind: and that byte code goes on the JVM it will run.
+
+Transcript received: Okay. Makes sense. Right?
+
+EchoMind: Okay. Makes sense. Right?
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: ecffdfffe2ffdfffd2ff
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 01036705d106fd079509
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 45feabfd18fd9bfc2ffc
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: aefde4fec101d1032d03
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 4b020efe1cfb81f99ff8
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 77eb7af1a6f795feb004
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: That means when you write something, it will go into byte code and then byte code will run on JVM.
+
+EchoMind: That means when you write something, it will go into byte code and then byte code will run on JVM.
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: bf38a536a12ed2185d02
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 84036e035b039003eb03
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 80070a071307a3070905
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 0900250028001c004d00
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: Now the only thing is see, your project can be a big project. Right?
+
+EchoMind: Now the only thing is see, your project can be a big project. Right?
+
+Error reading WebSocket message: websocket: close 1005 (no status)
+🐧 Linux system detected.
+Credential successfully loaded.
+Settings successfully loaded.
+WebSocket: connection established
+Using API key: 8c3b064a74e7fa35ad330658c59beee67bcbc06d
+
+[Open] Received
+WebSocket: received message type 1, size: 55 bytes
+WebSocket: received text message: {"sample_rate":16000,"channels":1,"bytes_per_sample":2}
+WebSocket: parsed JSON message: {Type:}
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 00000000000000000000
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 67f427f28ef105f081ed
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: This free master class
+
+EchoMind: This free master class
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 7cffaafff9ff5f00d800
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 9bffe9fe39fe6cfdabfc
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: will teach you exactly that.
+
+EchoMind: will teach you exactly that.
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 56ff73ff6aff54ff51ff
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 3e04bff3c4ea21eb8af0
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 6afef2fe60fffdffa800
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 5a00350057009000ab00
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: Learn how Kafka scales and ensures fall tolerance
+
+EchoMind: Learn how Kafka scales and ensures fall tolerance
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 1a0a1f0982078006db05
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: bffc20fd50fde5fc48fc
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 93f988f98bf999f911fa
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 4c016a01820190018e01
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: with Zookeeper playing a key role in maintaining system reliability.
+
+EchoMind: with Zookeeper playing a key role in maintaining system reliability.
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 32fb11fbedfac6faa4fa
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 370147017f01ad01b201
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: Click on the link below and ensure to attend.
+
+EchoMind: Click on the link below and ensure to attend.
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: d302ee02d4027c02d401
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 2e00580076009300af00
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 00000000000000000000
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 55055e039c01cdff2afe
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: acfd14fd93fc83fb9bfa
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 77f870f89ef875f8f5f7
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: So you just mentioned that you want to learn Python.
+
+EchoMind: So you just mentioned that you want to learn Python.
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: a1059005ce0439032b01
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: b2ff1efd28fba7f943f8
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: e8f73cf6fcf32cf2d5f0
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 9604b50494042b04d103
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: So do not learn Python in manual way in 2025 because learning
+
+EchoMind: So do not learn Python in manual way in 2025 because learning
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 7afe70feb1fd76fc18fa
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 1ffd84fc89fba7fa6ffa
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 1d01e800040170016a01
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 2a0076fe5ffda6fcd4fb
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: Python in manual way will take you, like, six months of your time on top of
+
+EchoMind: Python in manual way will take you, like, six months of your time on top of
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 49fdf3fdaffd81fd41fe
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 100947078b06a106cd05
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: that, you'll be ultra nonproductive in Python because when you use
+
+EchoMind: that, you'll be ultra nonproductive in Python because when you use
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 0ef879f86ff986fa34fb
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: a1fa6af8f7f530f433f3
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 1fee3cf11ff585fa6402
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: ba007a0066002a00faff
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: AI inside your Python, when you use AI tools to do your Python coding,
+
+EchoMind: AI inside your Python, when you use AI tools to do your Python coding,
+
+Transcript received: you'll be saving upwards of 95% of your time
+
+EchoMind: you'll be saving upwards of 95% of your time
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: ad06a4089308be08da08
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 71032402c7ff10fd9bfa
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 38fc0fff9a0296054708
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 5618b4182315470f6709
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: while you're coding, while you're debugging, while you're building web apps, and while you are scraping as well. Right?
+
+EchoMind: while you're coding, while you're debugging, while you're building web apps, and while you are scraping as well. Right?
+
+Error reading WebSocket message: websocket: close 1005 (no status)
+🐧 Linux system detected.
+Credential successfully loaded.
+Settings successfully loaded.
+WebSocket: connection established
+Using API key: 8c3b064a74e7fa35ad330658c59beee67bcbc06d
+
+[Open] Received
+WebSocket: received message type 1, size: 55 bytes
+WebSocket: received text message: {"sample_rate":16000,"channels":1,"bytes_per_sample":2}
+WebSocket: parsed JSON message: {Type:}
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 00000000000000000000
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: f6076406e60388ff22fc
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 59024502db017a011501
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: cefcd4fdc6ffc9fe0afe
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: bcff52fd1bfd17004700
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: e2091709a9065f04b002
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: So, basically, we have an outer box, which is your
+
+EchoMind: So, basically, we have an outer box, which is your
+
+Transcript received: JDK, which is used by developers.
+
+EchoMind: JDK, which is used by developers.
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: cb00b4fb42f865f807f9
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 3b10c910001280142917
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 9f00a700a800a8009a00
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 0fff99ff67ff54feebfd
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: faee09ee7bedb7ec9feb
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 4f05a7ff58008f018302
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: Inside which you'll be having something called j r
+
+EchoMind: Inside which you'll be having something called j r
+
+Transcript received: and in this, you'll be having JVM.
+
+EchoMind: and in this, you'll be having JVM.
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: dc0114024b0257024602
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: c2f076effeef73f3cef5
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 10f896f97bfb1afe1701
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 3a0b440ac6082907f205
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: So as a developer, you'll be installing JDK. JDK will have JRE. JRE will have JVM.
+
+EchoMind: So as a developer, you'll be installing JDK. JDK will have JRE. JRE will have JVM.
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: f700c6005b001b006400
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 4d0bbd0ae2096c099f09
+WebSocket: sent 32000 bytes to EchoMind
+Empty transcript received
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 7af0f1f410f9c6fcbefe
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 2f011101ff004d018b01
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: cf00f500f400b701e001
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: befbeafa8bfb50faecf9
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: But to run something on any other machine, let's say, if you have made the app
+
+EchoMind: But to run something on any other machine, let's say, if you have made the app
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 1cf01ff3aaf3afef4eee
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 5afea5fee4fe38ff7000
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 090c8e0bc80b810bc50a
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 73f708f991fa83fb16fc
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: want to run this on your friend's machine, your friend's machine will only have JRE
+
+EchoMind: want to run this on your friend's machine, your friend's machine will only have JRE
+
+Transcript received: and JVM.
+
+EchoMind: and JVM.
+
+Empty transcript received
+Error reading WebSocket message: websocket: close 1005 (no status)
+🐧 Linux system detected.
+Credential successfully loaded.
+Settings successfully loaded.
+WebSocket: connection established
+Using API key: 8c3b064a74e7fa35ad330658c59beee67bcbc06d
+
+[Open] Received
+WebSocket: received message type 1, size: 55 bytes
+WebSocket: received text message: {"sample_rate":16000,"channels":1,"bytes_per_sample":2}
+WebSocket: parsed JSON message: {Type:}
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 00000000000000000000
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 93136c1531172717a615
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 30f899f4fef02beeb3ec
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: What is exception handling?
+
+EchoMind: What is exception handling?
+
+Error reading WebSocket message: websocket: close 1005 (no status)
+🐧 Linux system detected.
+Credential successfully loaded.
+Settings successfully loaded.
+WebSocket: connection established
+Using API key: 8c3b064a74e7fa35ad330658c59beee67bcbc06d
+
+[Open] Received
+WebSocket: received message type 1, size: 55 bytes
+WebSocket: received text message: {"sample_rate":16000,"channels":1,"bytes_per_sample":2}
+WebSocket: parsed JSON message: {Type:}
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 00000000000000000000
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 16ff1c0125002eff0001
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 1a029dff45ff5e038f08
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 00000000000000000000
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 3fdb56de51e229e864ef
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: What is exception handling?
+
+EchoMind: What is exception handling?
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 6d0910096009c009700a
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: What is exception handling?
+
+EchoMind: What is exception handling?
+
+
+[Metadata] Received
+Metadata.RequestID: c7750ce5-23b7-4b0e-9a57-3ff0a128705e
+Metadata.Channels: 1
+Metadata.Created: 2025-11-07T13:41:41.868Z
+
+
+[Error] Received
+Error.Type: Error
+Error.Message: close 1011
+Error.Description: Deepgram did not receive audio data or a text message within the timeout window. See https://dpgr.am/net0001
+
+
+[Close] Received
+Error reading WebSocket message: websocket: close 1005 (no status)
+🐧 Linux system detected.
+Credential successfully loaded.
+Settings successfully loaded.
+WebSocket: connection established
+Using API key: 8c3b064a74e7fa35ad330658c59beee67bcbc06d
+
+[Open] Received
+WebSocket: received message type 1, size: 55 bytes
+WebSocket: received text message: {"sample_rate":16000,"channels":1,"bytes_per_sample":2}
+WebSocket: parsed JSON message: {Type:}
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 00000000000000000000
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: c9ffd9ffcaff5a00ccff
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: bd0fe710ea11a6120413
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 9c0041002a005500ac00
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: What is exception handling?
+
+EchoMind: What is exception handling?
+
+
+[Metadata] Received
+Metadata.RequestID: f1309346-6202-4b04-9e59-7d635b7b64f7
+Metadata.Channels: 1
+Metadata.Created: 2025-11-07T14:06:59.741Z
+
+
+[Error] Received
+Error.Type: Error
+Error.Message: close 1011
+Error.Description: Deepgram did not receive audio data or a text message within the timeout window. See https://dpgr.am/net0001
+
+
+[Close] Received
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 00000000000000000000
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 351e26234f27ee29592b
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 4df69ff54bf5c1f567f6
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 00000000000000000000
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 1000160006000100e8ff
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 4504f004ee057f067906
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 00000000000000000000
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 49f044f57bf967fd8d02
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: cf0326040bfd90fc7101
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: c800900180026f026d01
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 00000000000000000000
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: d8ea8be5fadd15d676d2
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 29fc67fcbbfc17fd7cfd
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 00000000000000000000
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 5b000000d3fe5cfd04fc
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 5e005900ecfeb4fe0b00
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 9301a7002c00e0ffa8ff
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 00000000000000000000
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 86fe1f01d7ff63ff6300
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: d00e580fc10b7f074904
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 00000000000000000000
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 1cfce5fa7efa8efa7bfa
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 79f88af7d0f6adf60cf7
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 8efcd7fcb4fb64fca1ff
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: d2fd6bfe5eff9a008201
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: fff998f9bbf88bf7a8f6
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 00f7b6f71ff81df803f8
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: e5ff0500240042002e00
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 0f06b2056b0577051907
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 880296069a0bdf0a9902
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 47fc2cf0b5f5af00a803
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: e3226f2e7c2f94256814
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: d4fb99faacf9cbf912fa
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: e6ff370078007e00a100
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 42fe1eff8b005d015603
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 4800ebfe2701a8ff08ff
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: fffd29fe94fe03ff72ff
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: cc152817ef1611162d18
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 6c1b641afd17b1118b0e
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 66e10bcf76c242c4f6ce
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 51f020f202f49ef550f6
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 94fdfef774f55af4d8f2
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: bc08ab087a0881089308
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 3d055105cc07f9049507
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: ba00bcff3100beff0600
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 75087a06ff056e06a507
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 1c01b6004c00cdff66ff
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 99f20df67bf8cbf8bbf9
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 0d129b122f11f50f520e
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 5fff0ffbd0f7a1f61af8
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: a42d7a2b151860fb9fec
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: ac001e018201be017402
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: c8f401fd6605c7058cfd
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: a71e902aa62f64273219
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: c401b2fe39febcfceefd
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 70000b00d7ffa3ff39ff
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 0ff54ff58ef515f643f7
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 69f5a9e730e72af3a100
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 29022c022002f101b501
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: caf1c4e826e0edd7fdd4
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 62f000f11af17df1c8f1
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: d801180251027502ad02
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: e2fca4fcd0fb1ffb0ffb
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 7000600064005e005a00
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 70dca9dfafe6d5eddeef
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: f6fcbdfc5dfcabfc2dfd
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 140fe10cc00a73091309
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 5feffee40adc1ee16fed
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: caffc1ff92ff7dff79ff
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 90fd06fe77fe77fe78fe
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: a90440069e05b404d603
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 9f09a60a130b0a0cc00d
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: adfec9ff380099ffc600
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 7efddefdd6fd9afd49fd
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 28fa63fa78faf7f8bff9
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: ad10680f030dcb09d207
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: b1ec6aefb3f1c3f53ef8
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: be09720a270b0a0c9e0c
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: dc051d065507c508b009
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 300b560a500a840bc90b
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 4900ecffb0ff7aff47ff
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 2b001a00faff2b006500
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: c8fdc8f85cf207ede1ea
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 5ef719fbd9ff71ffebfc
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: c9079b06600516043102
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: d0fe7efc66fbddfb1ffd
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: f0f336ee1bed42ef1fed
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: d5008aff82ff36feb1fc
+Error sending data to EchoMind: connection is not valid
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 24010301ed00cd00bc00
+Error sending data to EchoMind: connection is not valid
+Error reading WebSocket message: websocket: close 1005 (no status)
+🐧 Linux system detected.
+Credential successfully loaded.
+Settings successfully loaded.
+WebSocket: connection established
+Using API key: 8c3b064a74e7fa35ad330658c59beee67bcbc06d
+
+[Open] Received
+WebSocket: received message type 1, size: 55 bytes
+WebSocket: received text message: {"sample_rate":16000,"channels":1,"bytes_per_sample":2}
+WebSocket: parsed JSON message: {Type:}
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 00000000000000000000
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: f2ff2b002e0057008500
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 6204c709780c7c06e8f9
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 9cfe58fe37fe1dfe1afe
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 4008c907f20644094b0d
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 120c6d0c020de60eb40f
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 6d234027c326291ac503
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: c7fa46f4efec62eab5ea
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 8317771b801f651d351e
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: a8f9fef80ff908fa29fb
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 55ef0defa1ee95ee06ef
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 8a3ab03c9c3c37400139
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 3a0794059208210c8506
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: fcf57ff8fffadffc63fe
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: fefc71fdf9fd71fecbfe
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 8301baf9e8fd84fa5dfb
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: e318e40f3707c4029104
+Transcript received: Which is long term support. And in every new version, you get
+
+EchoMind: Which is long term support. And in every new version, you get
+
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: d0f038f15cf166f1e7f1
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: f1fff7ffd7ffb4ff98ff
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 4f0efb0d9e0b570b6b0b
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: some minor extra features. Right? So even if you are
+
+EchoMind: some minor extra features. Right? So even if you are
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 91ff90ff93ff95ff95ff
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 45e639e250dd49d799d5
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: fe00090065fd7bf7c4f3
+Transcript received: watching this after ten years or eight years or five years,
+
+EchoMind: watching this after ten years or eight years or five years,
+
+Error sending data to EchoMind: write tcp 192.168.187.105:37150->38.246.42.147:443: write: broken pipe
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: ba0231021cff1f03f901
+Error sending data to EchoMind: write tcp 192.168.187.105:37150->38.246.42.147:443: write: broken pipe
+
+[Metadata] Received
+Metadata.RequestID: d53d1088-fb60-41af-8203-dff4e0af2a49
+Metadata.Channels: 1
+Metadata.Created: 2025-11-07T14:10:06.312Z
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 14184f19a61a41172012
+Error sending data to EchoMind: write tcp 192.168.187.105:37150->38.246.42.147:443: write: broken pipe
+
+[Error] Received
+Error.Type: Error
+Error.Message: close 1011
+Error.Description: Deepgram did not receive audio data or a text message within the timeout window. See https://dpgr.am/net0001
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 39fdb7fcb5fe9d0060ff
+
+[Close] Received
+
+[Open] Received
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 4fff10ffc2ffbf004001
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 48ff98fe3bfeecfdcafd
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: cdfd6efeebfdd8fe45ff
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 11fe8e01bcff9bfdf903
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 7abce9b974bfc9d7eef5
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 6ffb98fb40fc80fc87fc
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: f703580120ffc8fd7afd
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: d4effff0ccf181f27df3
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 83feeafe62ffeaff3a00
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 0b0334040c0259ff1f05
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 1ffef9fd06fe03fee9fd
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 6e109e113a13d912360f
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: aa0e7f153a195118ad18
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: bf0c860db80e870f4f10
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 4804db037d0341030303
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: cfefe4f035f24cf39df4
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: b8ff17fbbafccefcddfc
+Transcript received: In Java one. So don't worry about the new updates.
+
+EchoMind: In Java one. So don't worry about the new updates.
+
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 0aeeaff025f297f3a0f6
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 5a08d5052e001efb9ff9
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 0a009cffaeff0d002c00
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 0ee230e4e2e259dabece
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 10fc1afc2ffc45fc53fc
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: The core concept will remain same.
+
+EchoMind: The core concept will remain same.
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 4b14ac13ff0fa80f9e13
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 9fffb5ffbaffc1ffc6ff
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 97ffa7ffb8ffcdffd8ff
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 8901c700e20044012101
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: Okay. Cool. Now once you have, this thing, what next we can do?
+
+EchoMind: Okay. Cool. Now once you have, this thing, what next we can do?
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 56045f034c0228011b00
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 9bfb97ffaafd8cfe8301
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: Now think about this world. Of course,
+
+EchoMind: Now think about this world. Of course,
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 2800f6ffd3ffadff76ff
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: b900cd00e900b7007900
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 9f094909f00ef10d7b0b
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 92ff0604aaff01ffcf03
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: first of all, why we build software? We build software so that we can solve a problem.
+
+EchoMind: first of all, why we build software? We build software so that we can solve a problem.
+
+Transcript received: Now what problem we are trying to solve
+
+EchoMind: Now what problem we are trying to solve
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 681fa31e9c1ccd197e17
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: cefa35fa2dfa45fa1bfa
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: So basically, are trying to solve the
+
+EchoMind: So basically, are trying to solve the
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: cffe0dff2dff3dff4eff
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 8df45cf4fdf92d024207
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 4007b0074e087008c508
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 36fe8cfef6fe6cffd2ff
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: real world problems with the help of
+
+EchoMind: real world problems with the help of
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 490a360d190cff070503
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 4f0b110bf80911088905
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 29004e001b0021006b00
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 9dfd1eff0eff54ff82ff
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: virtual world. Example, you wanted to buy something, so you got Amazon, which
+
+EchoMind: virtual world. Example, you wanted to buy something, so you got Amazon, which
+
+Transcript received: delivers everything
+
+EchoMind: delivers everything
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: f40efb0e380e760fa510
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: f5fffbfffafff8ff1500
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 81f321f417f5a8f603f8
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 3525d42637295b2bf62a
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: at home. So you got Amazon as online service.
+
+EchoMind: at home. So you got Amazon as online service.
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 0af3e8f2cdf2d9f242f3
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: b3fc14fa6af7c2f54df4
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 7bfb57fb14fb12fb0bfb
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 3f0143000eff60fe6bfe
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: You wanted to book a cab, you got Uber.
+
+EchoMind: You wanted to book a cab, you got Uber.
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: f8f5ecf9c2fb4cfc9bfe
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: ea03c20392037703ea03
+WebSocket: sent 32000 bytes to EchoMind
+Error reading WebSocket message: websocket: close 1005 (no status)
+🐧 Linux system detected.
+Credential successfully loaded.
+Settings successfully loaded.
+WebSocket: connection established
+Using API key: 8c3b064a74e7fa35ad330658c59beee67bcbc06d
+
+[Open] Received
+WebSocket: received message type 1, size: 55 bytes
+WebSocket: received text message: {"sample_rate":16000,"channels":1,"bytes_per_sample":2}
+WebSocket: parsed JSON message: {Type:}
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: a0fe4efed3ff8800c500
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: dcffd5ffd8fff8fffbff
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 81e763ecf7f70e05890f
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 3c074708fc085b072d04
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 6f029403b5037802c102
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 60fe2802c7f797ffb6fd
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 370036003d003d003d00
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: e1fdd4fda8fd77fd24fd
+Transcript received: To create an array. Now how do we do that? In fact, in the last video, we
+
+EchoMind: To create an array. Now how do we do that? In fact, in the last video, we
+
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 0005680581040404e204
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: ee0c601798199c0ad2f0
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 4fedd4e602e70febc6ee
+Transcript received: have seen a business syntax. So let's use it.
+
+EchoMind: have seen a business syntax. So let's use it.
+
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 590a500a1408ce075a08
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: f32b9d31a418bbf222e1
+Transcript received: So we can simply create a we can mention the type of the
+
+EchoMind: So we can simply create a we can mention the type of the
+
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 92f497f38bf136ef50eb
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: e2ffbeffe6ff7400c7ff
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 3bf5def8dbf2f4e98ee8
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 0814b9162714b310300b
+Transcript received: of area we are using, which is int
+
+EchoMind: of area we are using, which is int
+
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 7cf972fe610373065708
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: c804a803770382038303
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: b001af01b401de01ef01
+Transcript received: and we can give a name to it, let's say nums.
+
+EchoMind: and we can give a name to it, let's say nums.
+
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 9aeec0f0b6f0f1f165f6
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: e0ffecfff1fff6ffecff
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 74006704b4078709400d
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 5efc43fe1501b1020a03
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 3ec16cc813d74ee76bf2
+Transcript received: And then we have to put a round we have to put a square bracket to define that's an array
+
+EchoMind: And then we have to put a round we have to put a square bracket to define that's an array
+
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 52009000ca00f8006900
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 54062706fa05c5056405
+Empty transcript received
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 5e02f6018100f2fe9bfe
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: d6ff15fb65f5c5ef86ec
+🐧 Linux system detected.
+Credential successfully loaded.
+Settings successfully loaded.
+WebSocket: connection established
+Using API key: 8c3b064a74e7fa35ad330658c59beee67bcbc06d
+
+[Open] Received
+WebSocket: received message type 1, size: 55 bytes
+WebSocket: received text message: {"sample_rate":16000,"channels":1,"bytes_per_sample":2}
+WebSocket: parsed JSON message: {Type:}
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 00000000000000000000
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 1e2ea4204bf9e0d4c4cd
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 10fffcffd4fe8a003106
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: e900380089ffc7fefcfd
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 3404eb047c049f04dc03
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 39ff59ff76ff6affaeff
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: And then we have to put a round we have to put a square back
+
+EchoMind: And then we have to put a round we have to put a square back
+
+Transcript received: to define that's an array
+
+EchoMind: to define that's an array
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 050aab0ae90b950cff0c
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: b100940081006d005000
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: equal to and then
+
+EchoMind: equal to and then
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: cf002e007fff94fffdff
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: d1074e097809e2082809
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 2f052c08260e8213c613
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: f1ff1a0011001c001d00
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: you already have the values here, you can assign the values itself
+
+EchoMind: you already have the values here, you can assign the values itself
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: f5ff1c0043007d00bb00
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 4f0b61046b051c08530a
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 3d0178fe99fbe8f890f6
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 4b238e01b8e30fdf49e6
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: or you can specify the values
+
+EchoMind: or you can specify the values
+
+Transcript received: So here what I will do is I will put a calendar packet here.
+
+EchoMind: So here what I will do is I will put a calendar packet here.
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 48ffc0ff97ffceff5200
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 1d0a1c0713089108b905
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 6a007c00940093008b00
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: b7ff5402c70186ffa100
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 43ff35005b011101b000
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 67006d0074007f008d00
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: And since I know the values, can directly put the values here. Let's say three, seven,
+
+EchoMind: And since I know the values, can directly put the values here. Let's say three, seven,
+
+Transcript received: two,
+
+EchoMind: two,
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 3710870a92ffa0f591f2
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: abff27ff17ff41fea0fd
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: d6000f02bc0252012400
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: e7fcb8fac8f92ef940f9
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 51f29ffb9d046c0445fe
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 8607cf0886099b0d1814
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: four. So let's say we have these four values. Okay? And now
+
+EchoMind: four. So let's say we have these four values. Okay? And now
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: a3fc38fd1dfd20fdc5fd
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 300018000200faffe0ff
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: I got an array with four values. It's it's that simple.
+
+EchoMind: I got an array with four values. It's it's that simple.
+
+Error reading WebSocket message: websocket: close 1005 (no status)
+🐧 Linux system detected.
+Credential successfully loaded.
+Settings successfully loaded.
+WebSocket: connection established
+Using API key: 8c3b064a74e7fa35ad330658c59beee67bcbc06d
+
+[Open] Received
+WebSocket: received message type 1, size: 55 bytes
+WebSocket: received text message: {"sample_rate":16000,"channels":1,"bytes_per_sample":2}
+WebSocket: parsed JSON message: {Type:}
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 00000000000000000000
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 31fbfefab4fa01fa8af9
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: fbfbb2f600f21deeaaea
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 1e0ebb0c1c0b7e09f707
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: deeaafe8d6e70be8bae8
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 6a03acfe56fdf7014d01
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: You are developing a Java application to handle user data
+
+EchoMind: You are developing a Java application to handle user data
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 14f9b8f81df816f78ff5
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: fefffefffefffefffeff
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: for a registration form.
+
+EchoMind: for a registration form.
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 1f000300f4ffa2ff0c00
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 570a8e0a240a4209db07
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 0600a305e1fb2d006503
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 0f020a020a02e301a201
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: The user needs to input data like age and username.
+
+EchoMind: The user needs to input data like age and username.
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 72fc8bfbfaf9cef7f0f4
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: fefffefffeffffffffff
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: Which have specific requirements.
+
+EchoMind: Which have specific requirements.
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: b5f30bf335f212f275f3
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 6710eb15f819331eee21
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 7d0021ffdbff4e00a200
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 110fe3129b150116e415
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: Age must be an integer greater than zero,
+
+EchoMind: Age must be an integer greater than zero,
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 920165fe98fae3f603f4
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 570168fd9ff86cf487f1
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: and the username should be a non empty string.
+
+EchoMind: and the username should be a non empty string.
+
+
+[Metadata] Received
+Metadata.RequestID: 25522915-63f5-4560-be57-1227a71e4efc
+Metadata.Channels: 1
+Metadata.Created: 2025-11-12T02:30:17.358Z
+
+
+[Error] Received
+Error.Type: Error
+Error.Message: close 1011
+Error.Description: Deepgram did not receive audio data or a text message within the timeout window. See https://dpgr.am/net0001
+
+
+[Close] Received
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 00000000000000000000
+
+[Open] Received
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 07099c0dca15c4195318
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: Exception handling.
+
+EchoMind: Exception handling.
+
+
+[Metadata] Received
+Metadata.RequestID: ce695e40-bb35-402d-bfb9-0ea46909e638
+Metadata.Channels: 1
+Metadata.Created: 2025-11-12T02:31:15.059Z
+
+
+[Error] Received
+Error.Type: Error
+Error.Message: close 1011
+Error.Description: Deepgram did not receive audio data or a text message within the timeout window. See https://dpgr.am/net0001
+
+
+[Close] Received
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 00000000000000000000
+
+[Open] Received
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 11091306c60202fef2f8
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: d3ff45fe06fd23fc6afb
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: Exception handling.
+
+EchoMind: Exception handling.
+
+
+[Metadata] Received
+Metadata.RequestID: 8348e545-699d-4dff-8fa8-c5488591f3dc
+Metadata.Channels: 1
+Metadata.Created: 2025-11-12T02:31:35.726Z
+
+
+[Error] Received
+Error.Type: Error
+Error.Message: close 1011
+Error.Description: Deepgram did not receive audio data or a text message within the timeout window. See https://dpgr.am/net0001
+
+
+[Close] Received
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 00000000000000000000
+
+[Open] Received
+WebSocket: sent 32000 bytes to EchoMind
+
+[Metadata] Received
+Metadata.RequestID: 39d55c9e-457c-4d72-a5d1-3c99e641d89e
+Metadata.Channels: 1
+Metadata.Created: 2025-11-12T02:33:08.686Z
+
+
+[Error] Received
+Error.Type: Error
+Error.Message: close 1011
+Error.Description: Deepgram did not receive audio data or a text message within the timeout window. See https://dpgr.am/net0001
+
+
+[Close] Received

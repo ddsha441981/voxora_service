@@ -1,0 +1,185 @@
+🖥️ Windows system detected.
+Credential successfully loaded.
+Settings successfully loaded.
+WebSocket: connection established
+Using API key: 8c3b064a74e7fa35ad330658c59beee67bcbc06d
+
+[Open] Received
+WebSocket: received message type 1, size: 55 bytes
+WebSocket: received text message: {"sample_rate":16000,"channels":1,"bytes_per_sample":2}
+WebSocket: parsed JSON message: {Type:}
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 00000000000000000000
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: d6f158f641f749f6d6f7
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 7f007d00700064005300
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: So if I compile this code,
+
+EchoMind: So if I compile this code,
+
+Empty transcript received
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 12f5d0f3bcf279f37df4
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 88fa44ef5ced8af1b6fa
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 0800beff8aff42ff81ff
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 1f00f3ff7300d5005100
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 7e1dae178a11940a1503
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: and run and you can see we got false. That makes sense. Right? Because the value
+
+EchoMind: and run and you can see we got false. That makes sense. Right? Because the value
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 25fd8703b606260cad0d
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 6001d700f9005101eb00
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: of a is smaller than
+
+EchoMind: of a is smaller than
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 39036503cf0286016202
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: value of b
+
+EchoMind: value of b
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 18ffb7ffd7ffb3ffcaff
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 17fec4fc1afbe2f968f9
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 4c00e2ff64ff08ff20ff
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 0e084d0719064e057a04
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: But what happens just before printing result, I'm saying not.
+
+EchoMind: But what happens just before printing result, I'm saying not.
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 1b05360fa217ac1d4e22
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 2a0ac3083908bb080509
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 56e4c2f128fabbfa35f3
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: c401b901840170016601
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: So whatever result of whatever value of result is, we are just
+
+EchoMind: So whatever result of whatever value of result is, we are just
+
+Transcript received: we are just
+
+EchoMind: we are just
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 7f02650240021f02fd01
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 1200faffcfffb9ffacff
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 00e92eec30f145f645f9
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: f0024b03b5023e022e05
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 35113b135c151616a315
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: doing the opposite of it. If this is true, it will give you false. If this is false, it will give you true.
+
+EchoMind: doing the opposite of it. If this is true, it will give you false. If this is false, it will give you true.
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 35003900320041004d00
+WebSocket: sent 32000 bytes to EchoMind
+Empty transcript received
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 8511f612a615d6170d1c
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: e7f91ffa40faa4fa33fb
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: a2fe98ffa901b6030b06
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: And if I compile and run, you can see we got true.
+
+EchoMind: And if I compile and run, you can see we got true.
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: e2fbc1feb4062ffb4500
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: It's because
+
+EchoMind: It's because
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: c3fe60ffee0026ff38fd
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 1e001c000400d4ffd0ff
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 45009d008f0029007400
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: f40203ffd7ffdd05af0a
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 8812b81473160817cd15
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: this was false. The earlier one's false. And now when I say s
+
+EchoMind: this was false. The earlier one's false. And now when I say s
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 4e0165fe79fce6fd4c02
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: exclamation result, it will give you true.
+
+EchoMind: exclamation result, it will give you true.
+
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 5cff80ff7fffb5ffd3ff
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: e401870060fef3fd73fc
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 4d023b0121048e0510ff
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: 54d606da55dd05e03be3
+WebSocket: sent 32000 bytes to EchoMind
+WebSocket: received message type 2, size: 32000 bytes
+WebSocket: processing binary audio data, first 10 bytes: bbf8b4f848f819f8b2f9
+WebSocket: sent 32000 bytes to EchoMind
+Transcript received: So as I mentioned before, it's very important once we go forward towards
+
+EchoMind: So as I mentioned before, it's very important once we go forward towards
+
+Error reading WebSocket message: websocket: close 1005 (no status)

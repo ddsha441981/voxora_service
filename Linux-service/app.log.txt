@@ -1,0 +1,343 @@
+ubuntu@ubuntu-HP-ZBook-15-G3:~$ BASE="https://surgical-postings-hitting-invoice.trycloudflare.com"
+KEY=8WCTQ75-DAM4Q7K-NXG7TQJ-ED2R90Z
+curl -s -H "Authorization: Bearer $KEY" "$BASE/api/v1/workspace/voxora_docs" | jq
+{
+  "workspace": [
+    {
+      "id": 1,
+      "name": "voxora_docs",
+      "slug": "voxora_docs",
+      "vectorTag": null,
+      "createdAt": "2025-10-17T13:16:52.191Z",
+      "openAiTemp": null,
+      "openAiHistory": 20,
+      "lastUpdatedAt": "2025-10-17T13:16:52.191Z",
+      "openAiPrompt": null,
+      "similarityThreshold": 0.25,
+      "chatProvider": null,
+      "chatModel": null,
+      "topN": 4,
+      "chatMode": "chat",
+      "pfpFilename": null,
+      "agentProvider": null,
+      "agentModel": null,
+      "queryRefusalResponse": null,
+      "vectorSearchMode": "default",
+      "documents": [
+        {
+          "id": 1,
+          "docId": "308d2f3e-df61-4cea-b9ed-0949f9a02943",
+          "filename": "13.-Regular-Expression.pdf-3ac75cbb-ecb7-4f14-8ca4-843733abb238.json",
+          "docpath": "custom-documents/13.-Regular-Expression.pdf-3ac75cbb-ecb7-4f14-8ca4-843733abb238.json",
+          "workspaceId": 1,
+          "metadata": "{\"id\":\"3ac75cbb-ecb7-4f14-8ca4-843733abb238\",\"url\":\"file:///app/collector/hotdir/13. Regular Expression.pdf\",\"title\":\"13. Regular Expression.pdf\",\"docAuthor\":\"no author found\",\"description\":\"No description found.\",\"docSource\":\"pdf file uploaded by the user.\",\"chunkSource\":\"\",\"published\":\"10/17/2025, 1:18:12 PM\",\"wordCount\":2520,\"token_count_estimate\":2037}",
+          "pinned": false,
+          "watched": false,
+          "createdAt": "2025-10-17T13:22:53.760Z",
+          "lastUpdatedAt": "2025-10-17T13:22:53.760Z"
+        },
+        {
+          "id": 2,
+          "docId": "3ed59f22-ead2-4e03-b656-66795d0a6f44",
+          "filename": "1.-Language-Fundamentals.pdf-d704354b-d9d8-463b-86da-91fef91fdb08.json",
+          "docpath": "custom-documents/1.-Language-Fundamentals.pdf-d704354b-d9d8-463b-86da-91fef91fdb08.json",
+          "workspaceId": 1,
+          "metadata": "{\"id\":\"d704354b-d9d8-463b-86da-91fef91fdb08\",\"url\":\"file:///app/collector/hotdir/1. Language Fundamentals.pdf\",\"title\":\"1. Language Fundamentals.pdf\",\"docAuthor\":\"no author found\",\"description\":\"No description found.\",\"docSource\":\"pdf file uploaded by the user.\",\"chunkSource\":\"\",\"published\":\"10/17/2025, 1:18:04 PM\",\"wordCount\":11705,\"token_count_estimate\":8624}",
+          "pinned": false,
+          "watched": false,
+          "createdAt": "2025-10-17T13:23:08.727Z",
+          "lastUpdatedAt": "2025-10-17T13:23:08.727Z"
+        },
+        {
+          "id": 3,
+          "docId": "2391e429-d58f-423c-9212-27fac70a7c0c",
+          "filename": "10.-java.lang-package.pdf-3f6f0642-987e-4740-b43b-198d40f9fff1.json",
+          "docpath": "custom-documents/10.-java.lang-package.pdf-3f6f0642-987e-4740-b43b-198d40f9fff1.json",
+          "workspaceId": 1,
+          "metadata": "{\"id\":\"3f6f0642-987e-4740-b43b-198d40f9fff1\",\"url\":\"file:///app/collector/hotdir/10. java.lang package.pdf\",\"title\":\"10. java.lang package.pdf\",\"docAuthor\":\"no author found\",\"description\":\"No description found.\",\"docSource\":\"pdf file uploaded by the user.\",\"chunkSource\":\"\",\"published\":\"10/17/2025, 1:18:08 PM\",\"wordCount\":13328,\"token_count_estimate\":10463}",
+          "pinned": false,
+          "watched": false,
+          "createdAt": "2025-10-17T13:23:18.704Z",
+          "lastUpdatedAt": "2025-10-17T13:23:18.704Z"
+        },
+        {
+          "id": 4,
+          "docId": "63c12ac8-2c47-47fb-94a4-703a85484950",
+          "filename": "11.-File-IO-Package.pdf-6106d1cc-2af1-40b0-94f7-e40967aa5e6f.json",
+          "docpath": "custom-documents/11.-File-IO-Package.pdf-6106d1cc-2af1-40b0-94f7-e40967aa5e6f.json",
+          "workspaceId": 1,
+          "metadata": "{\"id\":\"6106d1cc-2af1-40b0-94f7-e40967aa5e6f\",\"url\":\"file:///app/collector/hotdir/11. File IO Package.pdf\",\"title\":\"11. File IO Package.pdf\",\"docAuthor\":\"no author found\",\"description\":\"No description found.\",\"docSource\":\"pdf file uploaded by the user.\",\"chunkSource\":\"\",\"published\":\"10/17/2025, 1:18:09 PM\",\"wordCount\":3267,\"token_count_estimate\":2533}",
+          "pinned": false,
+          "watched": false,
+          "createdAt": "2025-10-17T13:23:20.952Z",
+          "lastUpdatedAt": "2025-10-17T13:23:20.952Z"
+        },
+        {
+          "id": 5,
+          "docId": "ffb75af2-87d0-4869-aaeb-db47f063f03c",
+          "filename": "12.-Serialization.pdf-a9165039-920d-43e6-bc77-eb2df52d3982.json",
+          "docpath": "custom-documents/12.-Serialization.pdf-a9165039-920d-43e6-bc77-eb2df52d3982.json",
+          "workspaceId": 1,
+          "metadata": "{\"id\":\"a9165039-920d-43e6-bc77-eb2df52d3982\",\"url\":\"file:///app/collector/hotdir/12. Serialization.pdf\",\"title\":\"12. Serialization.pdf\",\"docAuthor\":\"no author found\",\"description\":\"No description found.\",\"docSource\":\"pdf file uploaded by the user.\",\"chunkSource\":\"\",\"published\":\"10/17/2025, 1:18:10 PM\",\"wordCount\":3576,\"token_count_estimate\":3281}",
+          "pinned": false,
+          "watched": false,
+          "createdAt": "2025-10-17T13:23:24.114Z",
+          "lastUpdatedAt": "2025-10-17T13:23:24.114Z"
+        },
+        {
+          "id": 6,
+          "docId": "17989a13-bb32-402d-ad5b-a689582c5a3c",
+          "filename": "14-Collections-Frame-Work.pdf-1097406b-32d3-47cd-a5b6-b22a7f33502e.json",
+          "docpath": "custom-documents/14-Collections-Frame-Work.pdf-1097406b-32d3-47cd-a5b6-b22a7f33502e.json",
+          "workspaceId": 1,
+          "metadata": "{\"id\":\"1097406b-32d3-47cd-a5b6-b22a7f33502e\",\"url\":\"file:///app/collector/hotdir/14 Collections Frame Work.pdf\",\"title\":\"14 Collections Frame Work.pdf\",\"docAuthor\":\"no author found\",\"description\":\"No description found.\",\"docSource\":\"pdf file uploaded by the user.\",\"chunkSource\":\"\",\"published\":\"10/17/2025, 1:18:12 PM\",\"wordCount\":21938,\"token_count_estimate\":14877}",
+          "pinned": false,
+          "watched": false,
+          "createdAt": "2025-10-17T13:23:38.999Z",
+          "lastUpdatedAt": "2025-10-17T13:23:38.999Z"
+        },
+        {
+          "id": 7,
+          "docId": "1fa8eec9-4fa3-40d7-a85d-e2cebee2be8e",
+          "filename": "15.-Generics.pdf-8229c59e-9ef1-4fdc-a2f5-120e6828442e.json",
+          "docpath": "custom-documents/15.-Generics.pdf-8229c59e-9ef1-4fdc-a2f5-120e6828442e.json",
+          "workspaceId": 1,
+          "metadata": "{\"id\":\"8229c59e-9ef1-4fdc-a2f5-120e6828442e\",\"url\":\"file:///app/collector/hotdir/15. Generics.pdf\",\"title\":\"15. Generics.pdf\",\"docAuthor\":\"no author found\",\"description\":\"No description found.\",\"docSource\":\"pdf file uploaded by the user.\",\"chunkSource\":\"\",\"published\":\"10/17/2025, 1:18:13 PM\",\"wordCount\":2236,\"token_count_estimate\":1823}",
+          "pinned": false,
+          "watched": false,
+          "createdAt": "2025-10-17T13:23:40.824Z",
+          "lastUpdatedAt": "2025-10-17T13:23:40.824Z"
+        },
+        {
+          "id": 8,
+          "docId": "9e3dd802-ee55-4a83-9fdf-7496ac5dc404",
+          "filename": "16-Garbage-Collection.pdf-e926bdee-598d-4000-bf15-d62f5645ce53.json",
+          "docpath": "custom-documents/16-Garbage-Collection.pdf-e926bdee-598d-4000-bf15-d62f5645ce53.json",
+          "workspaceId": 1,
+          "metadata": "{\"id\":\"e926bdee-598d-4000-bf15-d62f5645ce53\",\"url\":\"file:///app/collector/hotdir/16 Garbage Collection.pdf\",\"title\":\"16 Garbage Collection.pdf\",\"docAuthor\":\"no author found\",\"description\":\"No description found.\",\"docSource\":\"pdf file uploaded by the user.\",\"chunkSource\":\"\",\"published\":\"10/17/2025, 1:18:13 PM\",\"wordCount\":3417,\"token_count_estimate\":1813}",
+          "pinned": false,
+          "watched": false,
+          "createdAt": "2025-10-17T13:23:42.424Z",
+          "lastUpdatedAt": "2025-10-17T13:23:42.424Z"
+        },
+        {
+          "id": 9,
+          "docId": "bdc8f141-81f0-461a-a40e-6df6ffa3229c",
+          "filename": "17.-ENUM.pdf-0651ddeb-8506-4f43-8436-a083df7bcc88.json",
+          "docpath": "custom-documents/17.-ENUM.pdf-0651ddeb-8506-4f43-8436-a083df7bcc88.json",
+          "workspaceId": 1,
+          "metadata": "{\"id\":\"0651ddeb-8506-4f43-8436-a083df7bcc88\",\"url\":\"file:///app/collector/hotdir/17. ENUM.pdf\",\"title\":\"17. ENUM.pdf\",\"docAuthor\":\"no author found\",\"description\":\"No description found.\",\"docSource\":\"pdf file uploaded by the user.\",\"chunkSource\":\"\",\"published\":\"10/17/2025, 1:18:14 PM\",\"wordCount\":1778,\"token_count_estimate\":1480}",
+          "pinned": false,
+          "watched": false,
+          "createdAt": "2025-10-17T13:23:44.002Z",
+          "lastUpdatedAt": "2025-10-17T13:23:44.002Z"
+        },
+        {
+          "id": 10,
+          "docId": "92adca99-1fc9-4ee3-800b-d3406bfcdd12",
+          "filename": "18.-Internationalization-(I18N).pdf-55649fe1-fc81-476c-ab2f-5e485eec415d.json",
+          "docpath": "custom-documents/18.-Internationalization-(I18N).pdf-55649fe1-fc81-476c-ab2f-5e485eec415d.json",
+          "workspaceId": 1,
+          "metadata": "{\"id\":\"55649fe1-fc81-476c-ab2f-5e485eec415d\",\"url\":\"file:///app/collector/hotdir/18. Internationalization (I18N).pdf\",\"title\":\"18. Internationalization (I18N).pdf\",\"docAuthor\":\"no author found\",\"description\":\"No description found.\",\"docSource\":\"pdf file uploaded by the user.\",\"chunkSource\":\"\",\"published\":\"10/17/2025, 1:18:14 PM\",\"wordCount\":1353,\"token_count_estimate\":1383}",
+          "pinned": false,
+          "watched": false,
+          "createdAt": "2025-10-17T13:23:45.574Z",
+          "lastUpdatedAt": "2025-10-17T13:23:45.574Z"
+        },
+        {
+          "id": 11,
+          "docId": "57082b01-80eb-473b-9e5a-37f6fe7f2e80",
+          "filename": "19.-Development.pdf-114bd4ee-1cfe-4d51-b105-b9b323493096.json",
+          "docpath": "custom-documents/19.-Development.pdf-114bd4ee-1cfe-4d51-b105-b9b323493096.json",
+          "workspaceId": 1,
+          "metadata": "{\"id\":\"114bd4ee-1cfe-4d51-b105-b9b323493096\",\"url\":\"file:///app/collector/hotdir/19. Development.pdf\",\"title\":\"19. Development.pdf\",\"docAuthor\":\"no author found\",\"description\":\"No description found.\",\"docSource\":\"pdf file uploaded by the user.\",\"chunkSource\":\"\",\"published\":\"10/17/2025, 1:18:15 PM\",\"wordCount\":1910,\"token_count_estimate\":1468}",
+          "pinned": false,
+          "watched": false,
+          "createdAt": "2025-10-17T13:23:46.802Z",
+          "lastUpdatedAt": "2025-10-17T13:23:46.802Z"
+        },
+        {
+          "id": 12,
+          "docId": "16b8e647-6d5c-4596-8b09-2498e03f9085",
+          "filename": "2.-OPERATORS-_-ASSIGNMENTS.pdf-ba288ad4-c95a-4062-9ca5-5d7298c60d5e.json",
+          "docpath": "custom-documents/2.-OPERATORS-_-ASSIGNMENTS.pdf-ba288ad4-c95a-4062-9ca5-5d7298c60d5e.json",
+          "workspaceId": 1,
+          "metadata": "{\"id\":\"ba288ad4-c95a-4062-9ca5-5d7298c60d5e\",\"url\":\"file:///app/collector/hotdir/2. OPERATORS _ ASSIGNMENTS.pdf\",\"title\":\"2. OPERATORS _ ASSIGNMENTS.pdf\",\"docAuthor\":\"no author found\",\"description\":\"No description found.\",\"docSource\":\"pdf file uploaded by the user.\",\"chunkSource\":\"\",\"published\":\"10/17/2025, 1:18:04 PM\",\"wordCount\":5545,\"token_count_estimate\":3564}",
+          "pinned": false,
+          "watched": false,
+          "createdAt": "2025-10-17T13:23:50.340Z",
+          "lastUpdatedAt": "2025-10-17T13:23:50.340Z"
+        },
+        {
+          "id": 13,
+          "docId": "f6794ed2-af7b-4f9a-ab11-4aa8998f8041",
+          "filename": "20.-Assertions.pdf-a016f70b-02df-4814-84f9-afbd696b77d1.json",
+          "docpath": "custom-documents/20.-Assertions.pdf-a016f70b-02df-4814-84f9-afbd696b77d1.json",
+          "workspaceId": 1,
+          "metadata": "{\"id\":\"a016f70b-02df-4814-84f9-afbd696b77d1\",\"url\":\"file:///app/collector/hotdir/20.  Assertions.pdf\",\"title\":\"20.  Assertions.pdf\",\"docAuthor\":\"no author found\",\"description\":\"No description found.\",\"docSource\":\"pdf file uploaded by the user.\",\"chunkSource\":\"\",\"published\":\"10/17/2025, 1:18:15 PM\",\"wordCount\":1726,\"token_count_estimate\":1310}",
+          "pinned": false,
+          "watched": false,
+          "createdAt": "2025-10-17T13:23:51.505Z",
+          "lastUpdatedAt": "2025-10-17T13:23:51.505Z"
+        },
+        {
+          "id": 14,
+          "docId": "15fe11f0-edb8-4636-a623-c13d737f0738",
+          "filename": "21.-JVM-Architecture.pdf-2cf4e956-fbcf-4e27-808f-02ba2cea32f2.json",
+          "docpath": "custom-documents/21.-JVM-Architecture.pdf-2cf4e956-fbcf-4e27-808f-02ba2cea32f2.json",
+          "workspaceId": 1,
+          "metadata": "{\"id\":\"2cf4e956-fbcf-4e27-808f-02ba2cea32f2\",\"url\":\"file:///app/collector/hotdir/21. JVM Architecture.pdf\",\"title\":\"21. JVM Architecture.pdf\",\"docAuthor\":\"no author found\",\"description\":\"No description found.\",\"docSource\":\"pdf file uploaded by the user.\",\"chunkSource\":\"\",\"published\":\"10/17/2025, 1:18:15 PM\",\"wordCount\":5675,\"token_count_estimate\":3898}",
+          "pinned": false,
+          "watched": false,
+          "createdAt": "2025-10-17T13:23:54.633Z",
+          "lastUpdatedAt": "2025-10-17T13:23:54.633Z"
+        },
+        {
+          "id": 15,
+          "docId": "4caf048d-d604-4b11-995d-780e28e940e1",
+          "filename": "22.-JAVA-8-Features.pdf-95bcd1f1-30ae-439b-b87f-f201aceae097.json",
+          "docpath": "custom-documents/22.-JAVA-8-Features.pdf-95bcd1f1-30ae-439b-b87f-f201aceae097.json",
+          "workspaceId": 1,
+          "metadata": "{\"id\":\"95bcd1f1-30ae-439b-b87f-f201aceae097\",\"url\":\"file:///app/collector/hotdir/22. JAVA 8 Features.pdf\",\"title\":\"22. JAVA 8 Features.pdf\",\"docAuthor\":\"no author found\",\"description\":\"No description found.\",\"docSource\":\"pdf file uploaded by the user.\",\"chunkSource\":\"\",\"published\":\"10/17/2025, 1:18:17 PM\",\"wordCount\":15349,\"token_count_estimate\":6481}",
+          "pinned": false,
+          "watched": false,
+          "createdAt": "2025-10-17T13:23:59.943Z",
+          "lastUpdatedAt": "2025-10-17T13:23:59.943Z"
+        },
+        {
+          "id": 16,
+          "docId": "0dca4571-ea3b-4da7-9299-a5c87071faf4",
+          "filename": "3.-Flow-Control.pdf-e7cdf1cd-a929-4d4c-a157-8460fd3fb35e.json",
+          "docpath": "custom-documents/3.-Flow-Control.pdf-e7cdf1cd-a929-4d4c-a157-8460fd3fb35e.json",
+          "workspaceId": 1,
+          "metadata": "{\"id\":\"e7cdf1cd-a929-4d4c-a157-8460fd3fb35e\",\"url\":\"file:///app/collector/hotdir/3.  Flow Control.pdf\",\"title\":\"3.  Flow Control.pdf\",\"docAuthor\":\"no author found\",\"description\":\"No description found.\",\"docSource\":\"pdf file uploaded by the user.\",\"chunkSource\":\"\",\"published\":\"10/17/2025, 1:18:04 PM\",\"wordCount\":4410,\"token_count_estimate\":3743}",
+          "pinned": false,
+          "watched": false,
+          "createdAt": "2025-10-17T13:24:03.644Z",
+          "lastUpdatedAt": "2025-10-17T13:24:03.644Z"
+        },
+        {
+          "id": 17,
+          "docId": "5faa3651-252a-41da-a091-4c96796db746",
+          "filename": "4.-Declaration-and-Access-Modifiers.pdf-ff260836-bdd3-44db-97db-0b3f1f4bdb3d.json",
+          "docpath": "custom-documents/4.-Declaration-and-Access-Modifiers.pdf-ff260836-bdd3-44db-97db-0b3f1f4bdb3d.json",
+          "workspaceId": 1,
+          "metadata": "{\"id\":\"ff260836-bdd3-44db-97db-0b3f1f4bdb3d\",\"url\":\"file:///app/collector/hotdir/4.  Declaration and Access Modifiers.pdf\",\"title\":\"4.  Declaration and Access Modifiers.pdf\",\"docAuthor\":\"no author found\",\"description\":\"No description found.\",\"docSource\":\"pdf file uploaded by the user.\",\"chunkSource\":\"\",\"published\":\"10/17/2025, 1:18:04 PM\",\"wordCount\":13989,\"token_count_estimate\":10535}",
+          "pinned": false,
+          "watched": false,
+          "createdAt": "2025-10-17T13:24:13.554Z",
+          "lastUpdatedAt": "2025-10-17T13:24:13.554Z"
+        },
+        {
+          "id": 18,
+          "docId": "57521658-8d6c-4cc5-8448-e8d6d1639734",
+          "filename": "5.-OOPS.pdf-362a8f6a-2ad3-4a2b-9d38-5a5c536903f0.json",
+          "docpath": "custom-documents/5.-OOPS.pdf-362a8f6a-2ad3-4a2b-9d38-5a5c536903f0.json",
+          "workspaceId": 1,
+          "metadata": "{\"id\":\"362a8f6a-2ad3-4a2b-9d38-5a5c536903f0\",\"url\":\"file:///app/collector/hotdir/5. OOPS.pdf\",\"title\":\"5. OOPS.pdf\",\"docAuthor\":\"no author found\",\"description\":\"No description found.\",\"docSource\":\"pdf file uploaded by the user.\",\"chunkSource\":\"\",\"published\":\"10/17/2025, 1:18:04 PM\",\"wordCount\":11440,\"token_count_estimate\":8486}",
+          "pinned": false,
+          "watched": false,
+          "createdAt": "2025-10-17T13:24:23.515Z",
+          "lastUpdatedAt": "2025-10-17T13:24:23.515Z"
+        },
+        {
+          "id": 19,
+          "docId": "e6cdc346-3f37-4098-b5bc-4d0146b13368",
+          "filename": "6.-Exception-Handling.pdf-c0ed9104-7ea1-4fe0-9f25-beeeec8798c7.json",
+          "docpath": "custom-documents/6.-Exception-Handling.pdf-c0ed9104-7ea1-4fe0-9f25-beeeec8798c7.json",
+          "workspaceId": 1,
+          "metadata": "{\"id\":\"c0ed9104-7ea1-4fe0-9f25-beeeec8798c7\",\"url\":\"file:///app/collector/hotdir/6. Exception Handling.pdf\",\"title\":\"6. Exception Handling.pdf\",\"docAuthor\":\"no author found\",\"description\":\"No description found.\",\"docSource\":\"pdf file uploaded by the user.\",\"chunkSource\":\"\",\"published\":\"10/17/2025, 1:18:04 PM\",\"wordCount\":7785,\"token_count_estimate\":6079}",
+          "pinned": false,
+          "watched": false,
+          "createdAt": "2025-10-17T13:24:29.316Z",
+          "lastUpdatedAt": "2025-10-17T13:24:29.316Z"
+        },
+        {
+          "id": 20,
+          "docId": "7e55f92d-31ff-402d-bd98-405c5bf5f23b",
+          "filename": "7.-Multi-Threading.pdf-b96436be-5ce4-4c7a-961b-60cf67576a15.json",
+          "docpath": "custom-documents/7.-Multi-Threading.pdf-b96436be-5ce4-4c7a-961b-60cf67576a15.json",
+          "workspaceId": 1,
+          "metadata": "{\"id\":\"b96436be-5ce4-4c7a-961b-60cf67576a15\",\"url\":\"file:///app/collector/hotdir/7. Multi Threading.pdf\",\"title\":\"7. Multi Threading.pdf\",\"docAuthor\":\"no author found\",\"description\":\"No description found.\",\"docSource\":\"pdf file uploaded by the user.\",\"chunkSource\":\"\",\"published\":\"10/17/2025, 1:18:06 PM\",\"wordCount\":8512,\"token_count_estimate\":6452}",
+          "pinned": false,
+          "watched": false,
+          "createdAt": "2025-10-17T13:24:35.549Z",
+          "lastUpdatedAt": "2025-10-17T13:24:35.549Z"
+        },
+        {
+          "id": 21,
+          "docId": "2b5dc8e1-37ba-4940-96e9-e0d735683e57",
+          "filename": "8.-Multi-Threading-Enhancements.pdf-3c716861-4408-470e-a61e-4d23a56d11c2.json",
+          "docpath": "custom-documents/8.-Multi-Threading-Enhancements.pdf-3c716861-4408-470e-a61e-4d23a56d11c2.json",
+          "workspaceId": 1,
+          "metadata": "{\"id\":\"3c716861-4408-470e-a61e-4d23a56d11c2\",\"url\":\"file:///app/collector/hotdir/8. Multi Threading Enhancements.pdf\",\"title\":\"8. Multi Threading Enhancements.pdf\",\"docAuthor\":\"no author found\",\"description\":\"No description found.\",\"docSource\":\"pdf file uploaded by the user.\",\"chunkSource\":\"\",\"published\":\"10/17/2025, 1:18:06 PM\",\"wordCount\":5357,\"token_count_estimate\":4020}",
+          "pinned": false,
+          "watched": false,
+          "createdAt": "2025-10-17T13:24:40.048Z",
+          "lastUpdatedAt": "2025-10-17T13:24:40.048Z"
+        },
+        {
+          "id": 22,
+          "docId": "71701ad6-2ecc-4ade-b174-a05e301054dc",
+          "filename": "9.-InnerClasses.pdf-6113beae-fbee-4bfd-a67a-9c786ff5bb3b.json",
+          "docpath": "custom-documents/9.-InnerClasses.pdf-6113beae-fbee-4bfd-a67a-9c786ff5bb3b.json",
+          "workspaceId": 1,
+          "metadata": "{\"id\":\"6113beae-fbee-4bfd-a67a-9c786ff5bb3b\",\"url\":\"file:///app/collector/hotdir/9. InnerClasses.pdf\",\"title\":\"9. InnerClasses.pdf\",\"docAuthor\":\"no author found\",\"description\":\"No description found.\",\"docSource\":\"pdf file uploaded by the user.\",\"chunkSource\":\"\",\"published\":\"10/17/2025, 1:18:07 PM\",\"wordCount\":4947,\"token_count_estimate\":3471}",
+          "pinned": false,
+          "watched": false,
+          "createdAt": "2025-10-17T13:24:43.470Z",
+          "lastUpdatedAt": "2025-10-17T13:24:43.470Z"
+        },
+        {
+          "id": 23,
+          "docId": "8ec0bb9e-c9d9-4e85-a717-ccdb90f469bd",
+          "filename": "url-www.geeksforgeeks.org_courses-53f84119-5819-43cf-a7ec-3ae3818cff50.json",
+          "docpath": "custom-documents/url-www.geeksforgeeks.org_courses-53f84119-5819-43cf-a7ec-3ae3818cff50.json",
+          "workspaceId": 1,
+          "metadata": "{\"id\":\"53f84119-5819-43cf-a7ec-3ae3818cff50\",\"url\":\"file://www.geeksforgeeks.org_courses.html\",\"title\":\"www.geeksforgeeks.org_courses.html\",\"docAuthor\":\"no author found\",\"description\":\"No description found.\",\"docSource\":\"URL link uploaded by the user.\",\"chunkSource\":\"link://https://www.geeksforgeeks.org/courses?source=google&medium=cpc&device=c&keyword=geeksforgeeks&matchtype=p&campaignid=20039445781&adgroup=147845288105&gad_source=1&gad_campaignid=20039445781&gclid=CjwKCAjw0sfHBhB6EiwAQtv5qc6UNuNdAWQ9Chq1LVFtR6zuLDCXjO_IDCLEZ-_cKTmtoqz2I23EYBoCtBgQAvD_BwE\",\"published\":\"10/17/2025, 1:17:45 PM\",\"wordCount\":410,\"token_count_estimate\":1144}",
+          "pinned": false,
+          "watched": false,
+          "createdAt": "2025-10-17T13:24:44.763Z",
+          "lastUpdatedAt": "2025-10-17T13:24:44.763Z"
+        }
+      ],
+      "threads": []
+    }
+  ]
+}
+ubuntu@ubuntu-HP-ZBook-15-G3:~$
+
+
+
+
+ubuntu@ubuntu-HP-ZBook-15-G3:~$ curl -s -X POST http://127.0.0.1:8080/api/remote/ask \
+  -H "Content-Type: application/json" \
+  -d '{"input":"Exception handling","stream":false,"mode":"chat"}'
+{"id":"2b6439ba-3102-43df-b68f-958676e125f8","type":"abort","textResponse":null,"sources":[],"close":true,"error":"413 Request too large for model `llama-3.1-8b-instant` in organization `org_01k5qxb3zgfffb6n4xaj8eb527` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 7418, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing"}curl -s -H "Authorization: Bearer $KEY" \H "Authorization: Bearer $KEY" \
+  -H "Content-Type: application/json" \
+  -d '{"query":"test"}' \
+  "$BASE/api/v1/workspace/voxora_docs/vector-search" | jq
+{
+  "results": [
+    {
+      "id": "0af24d7b-94f1-40f2-9063-b4c4f9e36667",
+      "text": "<document_metadata>\nsourceDocument: 20.  Assertions.pdf\npublished: 10/17/2025, 1:18:15 PM\n</document_metadata>\n\n} \n } \n} \nOutput: \nJava Test \nAssert is on \nJava -ea Test \nAssert is on \nIn the above example boolean assertOn=false then answer following questions.  \nJavac Test.java \nJava Test \njava -ea Test \nR.E: AssertionError: true \n \n \n \n \n \n \nExample 4:JAVA Means DURGA SIR \n \n154 \nDURGASOFT, # 202,2\nnd\nFloor,HUDA Maitrivanam,Ameerpet, Hyderabad - 500038,  \n \n \nExample 5: \n \n \n \n \n \n \n \n \n \nExample 6:JAVA Means DURGA SIR \n \n155 \nDURGASOFT, # 202,2\nnd\nFloor,HUDA Maitrivanam,Ameerpet, Hyderabad - 500038,  \n \n \n \nNote: Because assert statement changes the value of Z. By using assert statement we can \nnot changes the value that is why it is inappropriate.JAVA Means DURGA SIR \n \n156 \nDURGASOFT, # 202,2\nnd\nFloor,HUDA Maitrivanam,Ameerpet, Hyderabad - 500038,",
+      "metadata": {
+        "url": "file:///app/collector/hotdir/20.  Assertions.pdf",
+        "title": "20.  Assertions.pdf",
+        "author": "no author found",
+        "description": "No description found.",
+        "docSource": "pdf file uploaded by the user.",
+        "chunkSource": "",
+        "published": "10/17/2025, 1:18:15 PM",
+        "wordCount": 1726,
+        "tokenCount": 1310
+      },
+      "distance": 0.6945902109146118,
+      "score": 0.3054097890853882
+    }
+  ]
+}
+ubuntu@ubuntu-HP-ZBook-15-G3:~$ 
+
+
