@@ -1,1 +1,0 @@
-C:\Users\Pankaj Singh\Desktop\Voxora\voxora-service>curl https://api.groq.com/openai/v1/chat/completions -H "Content-Type: application/json" -H "Authorization: Bearer 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" -d "{\"model\": \"llama-3.1-8b-instant\",\"messages\": [{\"role\": \"user\", \"content\": \"Tell me a joke about AI.\"}],\"stream\": true}"

@@ -1,10 +1,10 @@
-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
+gsk_2MUAoH4NWCuusdfsdfRVF4c3MmOd4ZvGL
 
 
 
 
 Groq
-curl https://api.groq.com/openai/v1/chat/completions -H "Content-Type: application/json" -H "Authorization: Bearer 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" -d "{\"model\": \"llama-3.1-8b-instant\",\"messages\": [{\"role\": \"user\", \"content\": \"Tell me a joke about AI.\"}],\"stream\": true}"
+curl https://api.groq.com/openai/v1/chat/completions -H "Content-Type: application/json" -H "Authorization: Bearer gsk_2MUAoH4NWCudfsdfgra6sdLuRVF4c3MmOd4ZvGL" -d "{\"model\": \"llama-3.1-8b-instant\",\"messages\": [{\"role\": \"user\", \"content\": \"Tell me a joke about AI.\"}],\"stream\": true}"
 
 
 =====================================================================================================================
@@ -16,23 +16,22 @@ curl "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:g
 
 =======================================================================================================
 Open Router
-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
+sk-or-v1-880ac2c8de37dfgdfc463148650c8373fc4c3
 
 
 
 without image 
 curl https://openrouter.ai/api/v1/chat/completions ^
  -H "Content-Type: application/json" ^
- -H "Authorization: Bearer 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" ^
- -d "{\"model\":\"google/gemini-2.5-flash\",\"stream\":true,\"messages\":[{\"role\":\"user\",\"content\":\"Tell me a joke about AI.\"}]}"
+ -H "Authorization: Bearer sk-or-v1-880ac2c8de37d2254c2b91b64fe48e155user\",\"content\":\"Tell me a joke about AI.\"}]}"
 
 
 With Image
 
 curl https://openrouter.ai/api/v1/chat/completions ^
  -H "Content-Type: application/json" ^
- -H "Authorization: Bearer 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" ^
- -d "{\"model\":\"google/gemini-2.5-flash\",\"stream\":true,\"messages\":[{\"role\":\"user\",\"content\":[{\"type\":\"text\",\"text\":\"What do you see in this image?\"},{\"type\":\"image_url\",\"image_url\":{\"url\":\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAHElEQVQI12P4//8/w38GIAXDIBKE0DHxgljNBAAO9TXL0Y4OHwAAAABJRU5ErkJggg==\"}}]}]}"
+ -H "Authorization: Bearer sk-or-v1-880ac2c8de37d24564e1d9f10efb1f926c463148650c8373fc4c3" ^
+ -d "{\"model\":\"google/gemini-2.5-flash\",\"stream\":true,\"messages\":[{\"role\":\"user\",\"content\":[{\"type\":\"text\",\"text\":\"What do you see in this image?\"},{\"type\":\"image_url\",\"image_url\":{\"url\":\"data:image/png;base64,iVBORw0KGfdAAHElEQVQI12P4//8/w38GIAXDIBKE0DHxsdgJRU5ErkJggg==\"}}]}]}"
 ======================================================================================================================
 cohere
 

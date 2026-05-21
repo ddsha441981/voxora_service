@@ -45,4 +45,4 @@ systemctl --user disable --now voxora && rm -f ~/.config/systemd/user/voxora.ser
 
 
 open 
-sk-or-v1-40f88961b2cec05162f65ab33bbd04378c2d9fadc033a7eac2c73a51cd277ccccc7
+sk-or-v1-40f88961vzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx51cd277ccccc7
